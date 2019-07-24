@@ -164,8 +164,66 @@ def insert_matchs_statistics(cnx, cursor):
         except json.decoder.JSONDecodeError as err:
             print(">>>", err, i)
     cnx.commit()
+    
+def text_cleanner(text):
+    text = text.replace('é', 'e')
+    text = text.replace('thl', 'tl')
+    text = text.replace('á', 'a')
+    text = text.replace('ê', 'e')
+    text = text.replace('ã', 'a')
+    text = text.replace('ó', 'o')
+    text = text.replace(' ', '-')
+    text = text.lower()
+    return text
+    
+def stringer(lista):
+    ss = ''
+    for i in lista:
+        ss = ss + ' ' + i
+    return ss
+
+def insert_news(cnx, cursor):
+    diretorios = sorted(pathlib.Path('.').glob('./Dados/*'))
+    os.system('mkdir -p news')
+    counter = 0
+    for i in diretorios:
+        
+        arquivos = sorted(pathlib.Path('.').glob('./Dados/' + i.name + '/*.json'))
+        for arq in arquivos:
+            js = json.load(arq.open())
+            
+            # print(">> Buscando time:", text_cleanner(js['time']), arq.name, counter)
+            cursor.execute("select id from fbpred.teams where fbpred.teams.team_name = '{}'".format(text_cleanner(js['time'])))
+            team_id = cursor.fetchone()[0]
+            
+            new = {
+                'id':counter,
+                'team_id': team_id,
+                'date': datetime.date(int(js['date'].split('/')[2]), int(js['date'].split('/')[1]), int(js['date'].split('/')[0])),
+                'author': stringer(js['author']),
+                'title': stringer(js['title']),
+                'text': js['text'],
+                'url': js['url']
+            }
+            query = "insert into fbpred.news(`id`, `team_id`, `date`, `author`, `title`, `text`, `url`) values (%(id)s, %(team_id)s, %(date)s, %(author)s, %(title)s, %(text)s, %(url)s);"
+            cursor.execute(query, new)
+            
+            os.chdir('news')
+            new['date'] = js['date']
+            with open( text_cleanner(js['time']) + '_' + str(counter) + '.json', 'w') as jsf:
+                json.dump(new, jsf)
+            os.chdir('..')
+            print('>>> Query {} executada'.format(counter))
+            counter += 1
+    cnx.commit()
+        
+        
+    # print('./Dados/'+ diretorios[0].name + '/*.json')
+    # arquivos = sorted(pathlib.Path('.').glob('./Dados/'+ diretorios[0].name + '/*.json'))
+    # print(arquivos)
         
 
+insert_news(cnx, cursor)
 # insert_matchs_statistics(cnx, cursor)
 
 
