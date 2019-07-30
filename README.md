@@ -37,3 +37,17 @@ All algorithms used for create this database are in directory [src](https://gith
   ```
   python3 gen_links.py
   ```
+
+- [GetStatistics](https://github.com/soccerpredict/TeamNews/blob/master/src/get_statistics.py) is the statistics crawler. This crawler works by reading a file of links and visiting all of them to extract the HTML element that has a class called _game_stats_.
+  - For execute this crawler, use the command:
+  ```
+  python3 get_statistics.py
+  ```
+
+- [DB](https://github.com/soccerpredict/TeamNews/blob/master/src/db.py) is the database creator file. He is responsible for visiting the results of all crawlers, processing the data to a compatible format for SQL and storing the data in all tables.
+  - For execute this file, use the command:
+  ```
+  python3 db.py
+  ```
+  
+  For any question, send a email to juliocmalvares07@gmail.com
