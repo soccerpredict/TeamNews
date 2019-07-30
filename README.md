@@ -23,3 +23,17 @@ The set o JSON files are structured exactly the same as the SQL. Thus, they foll
 # Algorithms
 
 All algorithms used for create this database are in directory [src](https://github.com/soccerpredict/TeamNews/tree/master/src).
+
+- [crw_fbpred](https://github.com/soccerpredict/TeamNews/tree/master/src/crw_fbpred) is the news crawler. This directory contains the two entities that are responsible for extracting and storing the news about the teams.
+  - For execute this crawler, use the command:
+  ```
+  scrapy crawl links
+  or
+  scrapy crawl news
+  ```
+
+- [GenLinks](https://github.com/soccerpredict/TeamNews/blob/master/src/gen_links.py) is the link generator for the statistics. This generator works by reading the tab_jogos_2018.csv file and generating the links of the [Veja](https://veja.abril.com.br/) portal.
+  - For execute this file, use the command:
+  ```
+  python3 gen_links.py
+  ```
