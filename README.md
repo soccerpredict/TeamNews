@@ -21,3 +21,5 @@ The set o JSON files are structured exactly the same as the SQL. Thus, they foll
 - [News](https://github.com/soccerpredict/TeamNews/tree/master/data/news) is a set of files that contains news about all teams of the league. The news comes from all teams participating in the championship, from April to December 2018.
   
 # Algorithms
+
+All algorithms used for create this database are in directory [src](https://github.com/soccerpredict/TeamNews/tree/master/src).
