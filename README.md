@@ -50,4 +50,4 @@ All algorithms used for create this database are in directory [src](https://gith
   python3 db.py
   ```
   
-  For any question, send a email to juliocmalvares07@gmail.com
+For any question, send a email to juliocmalvares07@gmail.com
