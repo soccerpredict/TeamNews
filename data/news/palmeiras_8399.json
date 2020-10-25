@@ -1,0 +1,50 @@
+{
+    "time": "palmeiras",
+    "date": "25/11/2018 18h43",
+    "title": "Em rede social, Gabriel Jesus comemora título do Palmeiras e fala em \"gratidão\". Atacante do Manchester City foi formado no Verdão e participou da conquista do nono título, em 2016",
+    "author": "GloboEsporte.com",
+    "text": [
+        "O atacante Gabriel Jesus, do Manchester City, parabenizou o Palmeiras pela conquista de seu décimo título brasileiro, neste domingo, após vitória sobre o Vasco por 1 a 0, em São Januário. O jogador foi revelado no Verdão e particiou do eneacampeonato, em 2016.",
+        "Em rede social, Gabriel Jesus falou em gratidão:",
+        "+ Veja aqui a festa do título do Palmeiras."
+    ],
+    "comments": [
+        {
+            "name": "Diego Silva",
+            "text": "Eu vou beber beber até cair, o Deca vem aí, o Deca vem aí",
+            "date": "2018-11-26T09:06:22",
+            "likes": "22",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Romeu Balducci",
+            "text": "JÁ SABE. AS PORTAS ESTARÃO SEMPRE ABERTAS.",
+            "date": "2018-11-25T20:50:08",
+            "likes": "83",
+            "unlikes": "2",
+            "replies": [
+                {
+                    "name": "MANU COSTA",
+                    "text": "Sempre estarão",
+                    "date": "2018-11-25T23:02:14",
+                    "likes": "41",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Valnei Silva",
+            "text": "Quando voltar já sabe quem vai estar de braços abertos pra vc \\o/",
+            "date": "2018-11-25T22:59:24",
+            "likes": "30",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/futebol/times/palmeiras/noticia/em-rede-social-gabriel-jesus-comemora-titulo-do-palmeiras-e-fala-em-gratidao.ghtml"
+}

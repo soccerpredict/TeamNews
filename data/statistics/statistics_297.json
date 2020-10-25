@@ -1,0 +1,16 @@
+{
+    "id": 297,
+    "team_id": 2,
+    "match_id": 148,
+    "status": "v",
+    "shots": 13,
+    "shots_on_goal": 7,
+    "fouls": 14,
+    "offsides": 1,
+    "ball_possession": 56,
+    "corners": 9,
+    "cross": 9,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "goals": "0"
+}

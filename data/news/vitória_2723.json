@@ -1,0 +1,65 @@
+{
+    "time": "vitória",
+    "date": "05/07/2018 16h05",
+    "title": "Vitória anuncia contratação do volante Marcelo Meli, ex-Racing.Jogador chega ao Rubro-Negro com contrato válido até o meio da próxima temporada",
+    "author": "GloboEsporte.com",
+    "text": [
+        "O Vitória anunciou, na tarde desta quinta-feira, a contratação do volante argentino Marcelo Meli, que foi emprestado pelo Racing e assinou contrato válido até o meio de 2019. Ele é o terceiro reforço oficializado pelo clube baiano no período de intertemporada. Antes do meio-campista, o Rubro-Negro havia contratado o zagueiro Ruan Renato e o atacate Erick. O lateral-esquerdo Marcelo Benítez está em Salvador, mas não foi anunciado até o momento.",
+        "Natural da cidade de Salta, Meli tem 26 anos e iniciou a carreira no Colón, da Argentina, onde ficou até 2014. Na temporada seguinte, assinou com o Boca Juniors, e em 2016 foi emprestado ao Sporting, de Portugal, clube pelo qual atuou em apenas duas partidas. Sem espaço, retornou ao futebol argentino e, desde então, defende o Racing.",
+        "Na atual temporada, participou de 21 partidas, quatro delas pela Libertadores da América. A última vez que esteve em campo foi no em maio, na derrota por 3 a 1 para o Colón, pelo Campeonato Argentino."
+    ],
+    "comments": [
+        {
+            "name": "Mario",
+            "text": "Boa sorte",
+            "date": "2018-07-06T03:03:17",
+            "likes": "6",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Zacarias Lima",
+            "text": "Esse aí mais o Marcelo Benítez parecem ser bons jogadores,é o que esperamos,agora falta um meia e um centroavante de qualidades.",
+            "date": "2018-07-05T17:23:05",
+            "likes": "30",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Adriano Santana",
+                    "text": "Mancine não gosta de jogadores de meio campo. Ainda não percebeu?",
+                    "date": "2018-07-05T18:16:27",
+                    "likes": "13",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Daniel",
+                    "text": "Porque negativaram o cara? Mancine é isso mesmo, não sabe como usar um meia, porque só sabe jogar com 3 atacantes e no contra-ataque. Por isso se perde todo quando tem que propor o jogo.",
+                    "date": "2018-07-05T22:31:57",
+                    "likes": "5",
+                    "unlikes": "5"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Tiago Souza",
+            "text": "Esse vai fazer história no Leão!!!!",
+            "date": "2018-07-05T16:15:11",
+            "likes": "43",
+            "unlikes": "2",
+            "replies": [
+                {
+                    "name": "Jonatas Souza",
+                    "text": "PRA CIMA LEÃO !!!!!! BORA VITÓRIAAAAAAA",
+                    "date": "2018-07-05T17:07:24",
+                    "likes": "27",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 1
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/ba/futebol/times/vitoria/noticia/vitoria-anuncia-contratacao-do-volante-marcelo-meli-ex-racing.ghtml"
+}

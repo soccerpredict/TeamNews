@@ -1,0 +1,772 @@
+{
+    "time": "flamengo",
+    "date": "22/04/2018 05h00",
+    "title": "Vim, vi e venci: a noite de despedida de Julio Cesar no Maracanã em fotos. Terceiro goleiro que mais vestiu a camisa do Flamengo, o camisa 12 do Rubro-Negro deu adeus ao futebol na vitória por 2 a 0 em cima do América-MG, no último sábado",
+    "author": "GloboEsporte.com",
+    "text": [
+        "Julio Cesar veio, viu e venceu. A frase do imperador romano entre os anos 49 e 44 antes de Cristo pode ser adaptada para o goleiro do Flamengo. A vitória por 2 a 0 em cima do América-MG, no último sábado, no Maracanã, deu ao camisa 12 do Rubro-Negro uma despedida memóravel. Veja abaixo 12 grandes fotos que marcaram a noite do goleiro."
+    ],
+    "comments": [
+        {
+            "name": "Gera Souza",
+            "text": "Se tive parado a quatro anos atras, não tinha tomado de 7 a 1. goleirinho bem ...",
+            "date": "2018-04-23T12:34:14",
+            "likes": "4",
+            "unlikes": "36",
+            "replies": [
+                {
+                    "name": "Reiner Silva",
+                    "text": "Pode criticar, mas não assassina o português....",
+                    "date": "2018-04-23T13:08:50",
+                    "likes": "29",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Ronald Melo",
+                    "text": "Alem de rancoroso é semi analfabeto",
+                    "date": "2018-04-23T19:36:28",
+                    "likes": "20",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Erich Pimenta",
+            "text": "7X1",
+            "date": "2018-04-23T12:25:21",
+            "likes": "1",
+            "unlikes": "10",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Acacio Teixeira",
+            "text": "O time do Megão sem os dois Diegos, Juan é Everton Ribeiro, ficou bem mais competitivo.",
+            "date": "2018-04-22T12:05:19",
+            "likes": "22",
+            "unlikes": "32",
+            "replies": [
+                {
+                    "name": "Fabricio Santos",
+                    "text": "Verdade",
+                    "date": "2018-04-22T12:29:22",
+                    "likes": "1",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Fabiano",
+                    "text": "MAS COMO É B/U/R/R/O, HÁ 6 MESES ATRÁS NÃO ERAM OS MELHORES? ESSA TORCIDA SÓ TEM I/L/U/D/I/D/O, C/A/M/B/A/D/A DE B/U/R/R/O/S MESMO.",
+                    "date": "2018-04-22T12:46:52",
+                    "likes": "6",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Manases Batista",
+                    "text": "Acácio, não concordo, competitivo só se for para descer ao mesmo nível deles,,o time ganhou do América,por incompetência dos atacantes deles ,e milagre do mito Cezar!!",
+                    "date": "2018-04-23T00:59:42",
+                    "likes": "5",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Fernando Arruda",
+                    "text": "Arão mal sabe se marca ou ataca. Muda o time para ver se não melhora. Jonas e Cuellar finalizam e talvez menos sobrecarregados produzam mais que Arão, Diego e ER7 juntos.",
+                    "date": "2018-04-23T09:03:37",
+                    "likes": "7",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Marcio Santos",
+                    "text": "Gol da Alemanha kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.",
+                    "date": "2018-04-23T09:47:50",
+                    "likes": "1",
+                    "unlikes": "11"
+                }
+            ],
+            "n_replies": 5
+        },
+        {
+            "name": "Fabricio Santos",
+            "text": "Verdade",
+            "date": "2018-04-22T12:29:22",
+            "likes": "1",
+            "unlikes": "3",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabiano",
+            "text": "MAS COMO É B/U/R/R/O, HÁ 6 MESES ATRÁS NÃO ERAM OS MELHORES? ESSA TORCIDA SÓ TEM I/L/U/D/I/D/O, C/A/M/B/A/D/A DE B/U/R/R/O/S MESMO.",
+            "date": "2018-04-22T12:46:52",
+            "likes": "6",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Manases Batista",
+            "text": "Acácio, não concordo, competitivo só se for para descer ao mesmo nível deles,,o time ganhou do América,por incompetência dos atacantes deles ,e milagre do mito Cezar!!",
+            "date": "2018-04-23T00:59:42",
+            "likes": "5",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fernando Arruda",
+            "text": "Arão mal sabe se marca ou ataca. Muda o time para ver se não melhora. Jonas e Cuellar finalizam e talvez menos sobrecarregados produzam mais que Arão, Diego e ER7 juntos.",
+            "date": "2018-04-23T09:03:37",
+            "likes": "7",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcio Santos",
+            "text": "Gol da Alemanha kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.",
+            "date": "2018-04-23T09:47:50",
+            "likes": "1",
+            "unlikes": "11",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Orlando Neto",
+            "text": "ainda acho q o Júlio aposentou contra sua total vontade",
+            "date": "2018-04-23T09:47:26",
+            "likes": "5",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Bruno Ramos",
+            "text": "Não vai ser fácil outro goleiro no nível do Julio Cesar. O cara é craque!!!",
+            "date": "2018-04-23T08:43:14",
+            "likes": "14",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcio Santos",
+            "text": "Muito engraçado, os antis vem aqui na página do Mengão de óculos escuros, pois o brilho é forte, tem inveja de ver um ídolo mundial fazer questão de voltar à sua origem e se aposentar, já no time dos antis, jogador se aposenta e vira camelô, outros saem pra times e se aposentam por lá mesmo, pois seria vergonha queimar a carreira em time que quase todo ano cai pra segundona.",
+            "date": "2018-04-23T06:29:47",
+            "likes": "20",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Marcelo Cesar",
+                    "text": "Concordo. Não é todo time que tem um goleiro que tomou 7 em uma copa do mundo em uma só partida. Parabéns! Entrou para a história.",
+                    "date": "2018-04-23T07:48:08",
+                    "likes": "2",
+                    "unlikes": "20"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Manases Batista",
+            "text": "Tá bom acabou a festa...aqora vamos pensar urgente em um técnico,, tive apurando o Fernando Diniz, não tem multa rescisória no furacão,,seria uma boa para o Mengo ?",
+            "date": "2018-04-23T00:53:16",
+            "likes": "6",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcos Dantas",
+            "text": "Parabéns, graças a você Barbosa finalmente pode descansar em paz.",
+            "date": "2018-04-22T20:34:59",
+            "likes": "2",
+            "unlikes": "11",
+            "replies": [
+                {
+                    "name": "Genivaldo Oliveira",
+                    "text": "E essa sua mulher estava comigo ontem",
+                    "date": "2018-04-22T23:25:52",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Jose Antonio",
+            "text": "O Cássio não tomou e nem vai tomar 7. Esse goleiro conseguiu suplantar aquele que perdeu para o Uruguai a copa de 50.",
+            "date": "2018-04-22T12:49:05",
+            "likes": "5",
+            "unlikes": "79",
+            "replies": [
+                {
+                    "name": "Rafael Fernandez",
+                    "text": "NENHUM dos 7 gols foi culpa dele, se não fosse ele seria 14 e não 7",
+                    "date": "2018-04-22T13:21:56",
+                    "likes": "26",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Jack",
+                    "text": "Pelo menos ele foi pra três copas ja o cassio se for vai pra r terceiro goleiro, e tem que ser muito clubista pra acha que o Julio falhou nos gols da Alemanha.",
+                    "date": "2018-04-22T13:51:25",
+                    "likes": "44",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Marcello Prazeres",
+                    "text": "Pela seleção o Cássio não vai tomar nem de 1, amigo.",
+                    "date": "2018-04-22T18:01:51",
+                    "likes": "12",
+                    "unlikes": "5"
+                },
+                {
+                    "name": "Antonio Sousa",
+                    "text": "também não vai jogar",
+                    "date": "2018-04-22T20:09:58",
+                    "likes": "20",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Marcos Dantas",
+                    "text": "Parabéns pelos 7 gols sofridos no Mineirão, foi histórico.",
+                    "date": "2018-04-22T20:32:05",
+                    "likes": "2",
+                    "unlikes": "12"
+                },
+                {
+                    "name": "Murilo Carneiro",
+                    "text": "Ão ão ão segunda divisão",
+                    "date": "2018-04-22T22:23:28",
+                    "likes": "9",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Genivaldo Oliveira",
+                    "text": "Galera deixa esse ridículos falarem besteira,os times deles não tem e nunca terá idolos......PARABÉNS JÚLIO CÉSAR!!!!!!!!!!!",
+                    "date": "2018-04-22T23:24:22",
+                    "likes": "15",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 7
+        },
+        {
+            "name": "Rafael Fernandez",
+            "text": "NENHUM dos 7 gols foi culpa dele, se não fosse ele seria 14 e não 7",
+            "date": "2018-04-22T13:21:56",
+            "likes": "26",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jack",
+            "text": "Pelo menos ele foi pra três copas ja o cassio se for vai pra r terceiro goleiro, e tem que ser muito clubista pra acha que o Julio falhou nos gols da Alemanha.",
+            "date": "2018-04-22T13:51:25",
+            "likes": "44",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcello Prazeres",
+            "text": "Pela seleção o Cássio não vai tomar nem de 1, amigo.",
+            "date": "2018-04-22T18:01:51",
+            "likes": "12",
+            "unlikes": "5",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Antonio Sousa",
+            "text": "também não vai jogar",
+            "date": "2018-04-22T20:09:58",
+            "likes": "20",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcos Dantas",
+            "text": "Parabéns pelos 7 gols sofridos no Mineirão, foi histórico.",
+            "date": "2018-04-22T20:32:05",
+            "likes": "2",
+            "unlikes": "12",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Murilo Carneiro",
+            "text": "Ão ão ão segunda divisão",
+            "date": "2018-04-22T22:23:28",
+            "likes": "9",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Genivaldo Oliveira",
+            "text": "Galera deixa esse ridículos falarem besteira,os times deles não tem e nunca terá idolos......PARABÉNS JÚLIO CÉSAR!!!!!!!!!!!",
+            "date": "2018-04-22T23:24:22",
+            "likes": "15",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Cicero Almeida",
+            "text": "vocês já notaram o tanto de corintianos que tem na pagina do flamengo? será pq?",
+            "date": "2018-04-22T21:32:30",
+            "likes": "27",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Genivaldo Oliveira",
+                    "text": "O time deles não tem JC tem o Frank!!!!!!!!!!!",
+                    "date": "2018-04-22T23:25:17",
+                    "likes": "4",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Renato Nogueira",
+            "text": "Thanks for all !!! JC12",
+            "date": "2018-04-22T22:14:46",
+            "likes": "13",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Carlos Santos",
+            "text": "aaaaaaaaah é JULIO CESAAAARRR... OBRIGADO MITO !!!!",
+            "date": "2018-04-22T21:44:23",
+            "likes": "21",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Antunes Morais",
+            "text": "Venceu de 1 X 7.",
+            "date": "2018-04-22T20:21:39",
+            "likes": "1",
+            "unlikes": "11",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Robson Campos",
+            "text": "Obrigado por tudo , Julio Cesar infelismente a idade chega para todos , vai deixa saudade no Gol do Mengão há Nação te ama , uma vez flamengo sempre flamengo !!!",
+            "date": "2018-04-22T18:11:01",
+            "likes": "56",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Natan Quintan",
+            "text": "Mito",
+            "date": "2018-04-22T17:55:28",
+            "likes": "13",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "Eterno frangueiro dos 7x1, jamais esqueceremos... Vai Corinthians, maior torcida do Brasil.",
+            "date": "2018-04-22T09:08:19",
+            "likes": "4",
+            "unlikes": "251",
+            "replies": [
+                {
+                    "name": "Alisson Rodrigues",
+                    "text": "Eterno rebaixado em 2007, jamais esqueceremos... Cai curica, maior torcida dos presídios.",
+                    "date": "2018-04-22T09:41:12",
+                    "likes": "82",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Geovani",
+                    "text": "CAI, CAI CURINTIA KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+                    "date": "2018-04-22T09:56:09",
+                    "likes": "47",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eduardo Miguel",
+                    "text": "Obrigado Julio Cesar, vc não deve nada pra ninguém, nós flamenguistas sempre teremos o respeito e a admiração por você!",
+                    "date": "2018-04-22T10:10:20",
+                    "likes": "65",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Josué Silva",
+                    "text": "Só pra lembra , que o Júlio não jogou sozinho Naquele jogo que muitos chamam de 7 x 1 Em campo estava ele e + 10 Sendo assim todo o elenco foi culpado Pela derrota na Copa 2014",
+                    "date": "2018-04-22T10:47:48",
+                    "likes": "35",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Joao Vignoli",
+                    "text": "Kkkkkk valeu rebaixado, mundial sem libertadores, o time da máfia do apito, torcida de um estado só é do norte do Paraná.kkkkkk tadinhos, assassinos.",
+                    "date": "2018-04-22T14:05:27",
+                    "likes": "27",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "Jefferson López",
+                    "text": "O Julio Cesar foi o menos culpado do 7 x 1 nem se tivesse 2 goleiros seguraria Jose zuado.",
+                    "date": "2018-04-22T16:54:27",
+                    "likes": "22",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 6
+        },
+        {
+            "name": "Alisson Rodrigues",
+            "text": "Eterno rebaixado em 2007, jamais esqueceremos... Cai curica, maior torcida dos presídios.",
+            "date": "2018-04-22T09:41:12",
+            "likes": "82",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Geovani",
+            "text": "CAI, CAI CURINTIA KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK",
+            "date": "2018-04-22T09:56:09",
+            "likes": "47",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eduardo Miguel",
+            "text": "Obrigado Julio Cesar, vc não deve nada pra ninguém, nós flamenguistas sempre teremos o respeito e a admiração por você!",
+            "date": "2018-04-22T10:10:20",
+            "likes": "65",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Josué Silva",
+            "text": "Só pra lembra , que o Júlio não jogou sozinho Naquele jogo que muitos chamam de 7 x 1 Em campo estava ele e + 10 Sendo assim todo o elenco foi culpado Pela derrota na Copa 2014",
+            "date": "2018-04-22T10:47:48",
+            "likes": "35",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Joao Vignoli",
+            "text": "Kkkkkk valeu rebaixado, mundial sem libertadores, o time da máfia do apito, torcida de um estado só é do norte do Paraná.kkkkkk tadinhos, assassinos.",
+            "date": "2018-04-22T14:05:27",
+            "likes": "27",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jefferson López",
+            "text": "O Julio Cesar foi o menos culpado do 7 x 1 nem se tivesse 2 goleiros seguraria Jose zuado.",
+            "date": "2018-04-22T16:54:27",
+            "likes": "22",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Francimar Vale",
+            "text": "Não liguem para estes vicemulambos recalcados da serie b. Julio, Cesár, parabéns pelo grande trabalho e a reverência para a Nação Rubro-negra. Mito.",
+            "date": "2018-04-22T16:17:36",
+            "likes": "17",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabiano",
+            "text": "F/L/A/B/O/S/T/A querendo aparecer as custas do GOLEIRO DO 7X1. KKK PIADA.",
+            "date": "2018-04-22T13:35:49",
+            "likes": "3",
+            "unlikes": "64",
+            "replies": [
+                {
+                    "name": "Raimundo Bernardo",
+                    "text": "PARABÉNS AO GRANDE PROFISSIONAL DO FLAMENGO JULIO CESAR, ASSIM COMO TODOS OS ATLETAS QUE TERMINARAM SUA VIDA PROFISSIONAL EM SEUS CLUBES DE CORAÇÃO, TEMOS O RESPEITO E A GRATIDÃO DE DIZER PARABÉNS JULIO CESAR, GRANDE GOLEIRO, NÃO APENAS DO FLAMENGO, MAIS POR ONDE PASSOU. DEUS ABENÇOE NESSA NOVA JORNADA!!!!",
+                    "date": "2018-04-22T13:53:10",
+                    "likes": "36",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Joao Vignoli",
+                    "text": "Sai daqui rebaixado INVEJOSO. UM COITADO.",
+                    "date": "2018-04-22T14:01:24",
+                    "likes": "16",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Izabell Tavares",
+            "text": "Fantástica e emocionante despedida de um homem que pra nós que somos nação se transformou em um herói ....Obrigado Júlio César você sempre será especial.....",
+            "date": "2018-04-22T15:17:45",
+            "likes": "24",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Roberto Filho",
+            "text": "O cara merece.",
+            "date": "2018-04-22T13:57:45",
+            "likes": "13",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alexandre Souza",
+            "text": "tORCEDOR",
+            "date": "2018-04-22T13:51:14",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Cicero Fernandes",
+            "text": "tinha mais a acrescentar a esse grupo valeu. julio cesar por tudo",
+            "date": "2018-04-22T13:35:35",
+            "likes": "12",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcelo Silva",
+            "text": "ATENÇÃO. QUEM JÁ FOI REBAIXADO NÃO PODE COMENTAR NADA AQUI. QUEM INSISTIR, ALÉM DE REBAIXADO É BURRO.",
+            "date": "2018-04-22T10:15:43",
+            "likes": "95",
+            "unlikes": "5",
+            "replies": [
+                {
+                    "name": "Roberta",
+                    "text": "E quem pagou a Portuguesa pra cair no seu lugar pode?",
+                    "date": "2018-04-22T12:18:01",
+                    "likes": "1",
+                    "unlikes": "11"
+                },
+                {
+                    "name": "Rafael Fernandez",
+                    "text": "Pagar a portuguesa pra cair? André Santos expulso por uma falta normal, cumpriu suspensão automática e jogou o segundo jogo após ser expulso(entrando no segundo tempo), julgamento após o jogo, deu dois jogos de suspensão a ele, o mesmo aconteceu com a portuguesa, lembrando a você que quem estava rebaixado até aquele momento era o fluminense e nao o flamengo, e foram nos que pagamos ? Para de ser burra, quando seu time nao tiver caído, me chame.",
+                    "date": "2018-04-22T12:56:48",
+                    "likes": "8",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Dexter M.j",
+                    "text": "pergunta pros florzinhas!!",
+                    "date": "2018-04-22T13:01:16",
+                    "likes": "3",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "Sempre Flamengo",
+            "text": "Julio falou ontem: Tem time em pior situação na liberta e não vejo tanto alarde como com o Flamengo. Acorda torcida e deixa de se levar por comentaristas paulistas e Mauro César que só joga cal no FLA!!! Vamos apoiar!!",
+            "date": "2018-04-22T12:42:22",
+            "likes": "34",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "Mão de Aligátor, não serve pra lustrar as luvas do Gigante Cássio do Todo Poderoso Timão...",
+            "date": "2018-04-22T09:10:14",
+            "likes": "4",
+            "unlikes": "119",
+            "replies": [
+                {
+                    "name": "Alisson Rodrigues",
+                    "text": "Júlio em seu auge, foi a maior goleiro do mundo, substituiu ninguém menos que o grande Toldo, em sua melhor forma foi eleito melhor que Buffon, Valdez, Casillas, Van der Sar, Dida, Marcos, Rogério Ceni, Peter Cech, etc. Qual outro goleiro brasileiro conseguiu esse feito?! Aguardo sua resposta, a propósito, quem é Cássio msm?",
+                    "date": "2018-04-22T09:38:46",
+                    "likes": "47",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Jose",
+                    "text": "Dida, Cássio, Ronaldo, Gilmar...",
+                    "date": "2018-04-22T09:46:26",
+                    "likes": "1",
+                    "unlikes": "10"
+                },
+                {
+                    "name": "Roberto Nascimento",
+                    "text": "Sei não. As mãos do Casio no seu khul",
+                    "date": "2018-04-22T09:52:47",
+                    "likes": "6",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Bruno Menezes",
+                    "text": "Esse tal de Cássio nem para ser terceiro goleiro da Seleção serve!!",
+                    "date": "2018-04-22T10:05:07",
+                    "likes": "24",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Sempre Flamengo",
+                    "text": "O que este Cássio conquistou que outro não tenha conquistado? Julio César só Champion League e Mundial para início...",
+                    "date": "2018-04-22T12:38:00",
+                    "likes": "18",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 5
+        },
+        {
+            "name": "Fabricio Santos",
+            "text": "Parabéns Julio Cesar. Juan faça o mesmo, APOSENTA!",
+            "date": "2018-04-22T12:30:30",
+            "likes": "4",
+            "unlikes": "6",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Lucas Gudin",
+            "text": "Parabéns Júlio, EXEMPLO. Deus o abençoe nessa nova fase de vida.",
+            "date": "2018-04-22T11:41:35",
+            "likes": "24",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Sempre Flamengo",
+                    "text": "Amém!",
+                    "date": "2018-04-22T12:28:09",
+                    "likes": "7",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Alisson Rodrigues",
+            "text": "Em seu auge, foi eleito melhor que Casillas, Bufon, Valdez, Van Der Sar, Dida, Peter Cech, o próprio Toldo a quem ele substituiu. Não é aquele 7x1 que vai manchar a sua carreira brilhante, Júlio, vc foi o menos culpado, qqr outro teria tomado os mesmos 7 ou até mais, o time tava uma zona e a Alemanha chegava com muita facilidade.",
+            "date": "2018-04-22T09:47:02",
+            "likes": "62",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Claudio Borges",
+                    "text": "Os gols do 7 x 1 foram mais culpa dos zagueiros e volantes do que dele. Não vi nenhum gol naquele jogo que ele tenha falhado. Já em 2010, no 2 x 1 par holanda, ele falhou no primeiro gol.",
+                    "date": "2018-04-22T11:17:47",
+                    "likes": "16",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Acompanhando",
+            "text": "Que saudade do tempo que todos os 11 jogadores do time do Flamengo jogavam com a emoção, raça, alegria nas vitórias e tristezas nas derrotas, e a camisa era realmente um manto como fez Júlio César. Joguei apenas como amador mais nunca entrei em campo para atuar sem compromissos como este atual grupo profissional do Flamengo.",
+            "date": "2018-04-22T10:19:16",
+            "likes": "35",
+            "unlikes": "2",
+            "replies": [
+                {
+                    "name": "José Sousa",
+                    "text": "infelizmente, hoje a maioria dos jogadores não tem identidade com o clube. São contratados a peso de ouro, ganham salários exorbitantes e passeiam em campo. Pior ainda, falta uma política de valorização para a grande maioria dos jogadores da base. Saudade de quando os jogadores eram dos clubes, não de empresários.",
+                    "date": "2018-04-22T11:01:34",
+                    "likes": "11",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Antonio Santos",
+            "text": "Valeu Júlio César Uberaba MG, realizamos nosso sonho vindo ao Rio, para ver jogar nosso Ídolo, Antônio, Gabriel, Rhaniel, família , Santos.",
+            "date": "2018-04-22T10:55:52",
+            "likes": "13",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcos Rosa",
+            "text": "Despedida de um grande goleiro. Parabéns Júlio. Foi muito importante para o FLAMENGO. Aí vem falar de cassio qual FLAMENGUISTA vai querer falar de cassio aqui é sobre a despedida de um ídolo. Cassio a hora que chegar no nível de melhor goleiro do mundo aí fica feliz. Que até agora cassio não lava a luva nem do goleiro vanderlei.foi pra selecao por causa do títe.",
+            "date": "2018-04-22T09:33:46",
+            "likes": "72",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Bruno Menezes",
+                    "text": "Concordo em Gênero, número e grau... Será que esses caras que estão falando do Cássio sabem o que é gênero, número e grau?",
+                    "date": "2018-04-22T10:06:45",
+                    "likes": "23",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "João Gonçalves",
+            "text": "Julio no seu melhor momento em 2010 foi melhor qie qualquer outro no mundo",
+            "date": "2018-04-22T09:52:52",
+            "likes": "7",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Bruno Morais",
+            "text": "um vascaíno criticou Júlio César pelos 7 a 1. respondi para ele. coisas do Futebol, não foi ele sozinho que levou sete gols, foi o Time inteiro, foi o Brasil todo, foi o Vasco, Botafogo, fluminense, Flamengo etc, etc. jogou a seleção brasileira, jogou o Brasil inteiro.",
+            "date": "2018-04-22T09:35:31",
+            "likes": "38",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Adryel Alves",
+            "text": "Essa última foto ficou muito top!!",
+            "date": "2018-04-22T09:28:32",
+            "likes": "15",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Deusival Davel",
+            "text": "Obrigado pela raça Julio Cesar! Sempre digno do Mengão. Boa sorte sempre. Abraços.",
+            "date": "2018-04-22T08:57:32",
+            "likes": "84",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ney Martins",
+            "text": "Sem dúvida um dos melhores goleiros do Flamengo ,desde a era Maracanã. E teve uma despedida que nos enche de gratidão pelos serviços prestados e pelo amor ao Flamengo.",
+            "date": "2018-04-22T08:45:14",
+            "likes": "42",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/futebol/times/flamengo/noticia/vim-vi-e-venci-a-noite-de-despedida-de-julio-cesar-no-maracana-em-12-fotos.ghtml"
+}

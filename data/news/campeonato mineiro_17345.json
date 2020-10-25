@@ -1,0 +1,910 @@
+{
+    "time": "campeonato mineiro",
+    "date": "08/04/2018 19h14",
+    "title": "Zoações de cruzeirenses após título do Mineiro vão de Lula a Ronaldinho Gaúcho. Após derrota no primeiro clássico da final, torcida do Cruzeiro vai à forra na internet com vitória no Mineirão que valeu o título do Estadual",
+    "author": "GloboEsporte.com",
+    "text": [
+        "A vitória do Cruzeiro sobre o Atlético-MG por 2 a 0, neste domingo, no Mineirão - que valeu o 37º título estadual do time celeste -, foi muito comemorada pela torcida do clube. O resultado levou os torcedores à forra já que o time havia sido derrotado no jogo de ida da decisão por 3 a 1, no Independência. A criatividade dos cruzeirenses deu origem a memes envolvendo o ex-presidente Lula, Ronaldinho Gaúcho e outras zoações. Confira algumas:"
+    ],
+    "comments": [
+        {
+            "name": "Antonio Lima",
+            "text": "Timinho do Galo tremeu. KKKKK Até agora só pegou baba na liberta. Amanhã começa o ferro entrar.",
+            "date": "2018-04-10T14:07:24",
+            "likes": "7",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Andrei Corte",
+            "text": "Não sou Atleticano e nem Cruzeirense, mas aproveitando... esses placares agregados é uma BESTEIRA, ainda bem que está acabando na maioria dos campeonatos! 3x3 AGREGADO: PENALTIS!",
+            "date": "2018-04-10T13:48:47",
+            "likes": "0",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "TIAGO NEVES ENTORTOU O VELHOTE VICTOR !!!!!! CADÊ A BOLA? VAI FICAR NA HISTÓRIA DO GOLEIRO MERECE PLACA!",
+            "date": "2018-04-10T08:38:03",
+            "likes": "6",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "TREMERAM????????? JÁ É DE COSTUME!!!! O GALO TREME!!!!!!!!!",
+            "date": "2018-04-10T08:30:34",
+            "likes": "5",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Rosanete",
+            "text": "os atleticanos sumiram, foram pra marrocos",
+            "date": "2018-04-09T17:28:00",
+            "likes": "15",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Galo Cruzeiro",
+            "text": "Lautaro Martinez manda lembranças",
+            "date": "2018-04-08T20:25:09",
+            "likes": "7",
+            "unlikes": "136",
+            "replies": [
+                {
+                    "name": "Pedro Costa",
+                    "text": "Arrasca e T Neves tambem",
+                    "date": "2018-04-08T23:10:02",
+                    "likes": "147",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Hades",
+                    "text": "esse ai é novo ídolo do patetico",
+                    "date": "2018-04-09T00:33:21",
+                    "likes": "81",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Julio Reis",
+                    "text": "anelka manda lembranças kkkkkkkkkkkkk",
+                    "date": "2018-04-09T09:11:18",
+                    "likes": "23",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Antonio Filho",
+                    "text": "Eles têm fetiche por argentino.",
+                    "date": "2018-04-09T09:30:43",
+                    "likes": "16",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Andre Carvalho",
+                    "text": "As frangas continuam patéticas mesmo..... Lautaro manda lembranças ??? kkkkkk. isso é atreticano voltando a ser atreticano !!! tomando ferro pra nós e torcendo para time e ídolos dos adversários do Cruzeiro !!!! kkkkkk",
+                    "date": "2018-04-09T10:06:49",
+                    "likes": "25",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Hilton Jacob",
+                    "text": "Daqui a pouco estão fazendo placa pra ele tb. Comédias kkkkkkkkkk",
+                    "date": "2018-04-09T21:22:43",
+                    "likes": "9",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Jose",
+                    "text": "NÃO SE GANHA JOGO NENHUM COM JOGADORES VELHOS \"Marcos Rocha, Ricardo Oliveilha, Galo perdeu Palmeiras tb.",
+                    "date": "2018-04-10T08:19:27",
+                    "likes": "1",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 7
+        },
+        {
+            "name": "Pedro Costa",
+            "text": "Arrasca e T Neves tambem",
+            "date": "2018-04-08T23:10:02",
+            "likes": "147",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Hades",
+            "text": "esse ai é novo ídolo do patetico",
+            "date": "2018-04-09T00:33:21",
+            "likes": "81",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Julio Reis",
+            "text": "anelka manda lembranças kkkkkkkkkkkkk",
+            "date": "2018-04-09T09:11:18",
+            "likes": "23",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Antonio Filho",
+            "text": "Eles têm fetiche por argentino.",
+            "date": "2018-04-09T09:30:43",
+            "likes": "16",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Andre Carvalho",
+            "text": "As frangas continuam patéticas mesmo..... Lautaro manda lembranças ??? kkkkkk. isso é atreticano voltando a ser atreticano !!! tomando ferro pra nós e torcendo para time e ídolos dos adversários do Cruzeiro !!!! kkkkkk",
+            "date": "2018-04-09T10:06:49",
+            "likes": "25",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Hilton Jacob",
+            "text": "Daqui a pouco estão fazendo placa pra ele tb. Comédias kkkkkkkkkk",
+            "date": "2018-04-09T21:22:43",
+            "likes": "9",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "NÃO SE GANHA JOGO NENHUM COM JOGADORES VELHOS \"Marcos Rocha, Ricardo Oliveilha, Galo perdeu Palmeiras tb.",
+            "date": "2018-04-10T08:19:27",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "NÃO era só no galo a Marta Rocha véia continua lá no Palmeiras entregando todas!!! O Diogo Barbosa é bem melhor que Marcos Rocha. lógico novo e cheio de energia!!",
+            "date": "2018-04-10T08:15:37",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcos Vieira",
+            "text": "Marias não ganham um rural no campo desde 2011",
+            "date": "2018-04-08T20:19:55",
+            "likes": "18",
+            "unlikes": "213",
+            "replies": [
+                {
+                    "name": "Angelo",
+                    "text": "As FRANGAS não ganham Brasileiro desde 1971...TUM!",
+                    "date": "2018-04-08T20:36:14",
+                    "likes": "112",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Cesari",
+                    "text": "Como está o traseiro? Chamuscado?",
+                    "date": "2018-04-08T20:38:28",
+                    "likes": "80",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Rodrigo Viggiani",
+                    "text": "Angelo, p.s., nem dentro nem fora de campo. kkkkkkkkkk",
+                    "date": "2018-04-08T21:27:48",
+                    "likes": "10",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eduardo Coelho",
+                    "text": "sou cruzeiro mas rural tem que acabar",
+                    "date": "2018-04-09T11:16:56",
+                    "likes": "1",
+                    "unlikes": "13"
+                },
+                {
+                    "name": "Bira Franca",
+                    "text": "Que jeito... nao pode jovem. Se nao quer jogar com o time titular o estadual, blz, pega o time titular e va fazer uma pre temporada na Europa jogando com os top10 e deixa o time reserva com misto da base pra disputar a competição... mas acabar com o estadual nao da",
+                    "date": "2018-04-09T14:13:55",
+                    "likes": "17",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Dirceu Antunes",
+                    "text": "2013 sobre as c.l.o.a.c.a.s rosas você não lembra né?",
+                    "date": "2018-04-09T18:08:13",
+                    "likes": "5",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Gabriel Silva",
+                    "text": "E não vou falar da decada de 90 pq não tem o que citar do Atlético.",
+                    "date": "2018-04-09T18:35:42",
+                    "likes": "6",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Daniel Freitas",
+                    "text": "Marcos Vieira...vamos deixar o rural de lado...e aí vai querer comparar?",
+                    "date": "2018-04-09T20:50:06",
+                    "likes": "0",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 8
+        },
+        {
+            "name": "Angelo",
+            "text": "As FRANGAS não ganham Brasileiro desde 1971...TUM!",
+            "date": "2018-04-08T20:36:14",
+            "likes": "112",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Cesari",
+            "text": "Como está o traseiro? Chamuscado?",
+            "date": "2018-04-08T20:38:28",
+            "likes": "80",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Rodrigo Viggiani",
+            "text": "Angelo, p.s., nem dentro nem fora de campo. kkkkkkkkkk",
+            "date": "2018-04-08T21:27:48",
+            "likes": "10",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eduardo Coelho",
+            "text": "sou cruzeiro mas rural tem que acabar",
+            "date": "2018-04-09T11:16:56",
+            "likes": "1",
+            "unlikes": "13",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Bira Franca",
+            "text": "Que jeito... nao pode jovem. Se nao quer jogar com o time titular o estadual, blz, pega o time titular e va fazer uma pre temporada na Europa jogando com os top10 e deixa o time reserva com misto da base pra disputar a competição... mas acabar com o estadual nao da",
+            "date": "2018-04-09T14:13:55",
+            "likes": "17",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Dirceu Antunes",
+            "text": "2013 sobre as c.l.o.a.c.a.s rosas você não lembra né?",
+            "date": "2018-04-09T18:08:13",
+            "likes": "5",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Gabriel Silva",
+            "text": "E não vou falar da decada de 90 pq não tem o que citar do Atlético.",
+            "date": "2018-04-09T18:35:42",
+            "likes": "6",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Daniel Freitas",
+            "text": "Marcos Vieira...vamos deixar o rural de lado...e aí vai querer comparar?",
+            "date": "2018-04-09T20:50:06",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabio Lima",
+            "text": "Muito criativo, pegou as zoações feitas as marias e usaram de volta kkkkk timinho feio.",
+            "date": "2018-04-09T10:13:38",
+            "likes": "5",
+            "unlikes": "17",
+            "replies": [
+                {
+                    "name": "Eduardo Coelho",
+                    "text": "lurdinha",
+                    "date": "2018-04-09T11:13:35",
+                    "likes": "14",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Rosanete",
+                    "text": "Chu p @ macarena",
+                    "date": "2018-04-09T17:30:33",
+                    "likes": "6",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Jose",
+            "text": "\"VELHO PASTOR? RICARDO\" Vá enganar seus fiéis lá na sua Igreja se é que é Pastor. pois futebol já passou seu tempo.",
+            "date": "2018-04-09T08:31:54",
+            "likes": "45",
+            "unlikes": "14",
+            "replies": [
+                {
+                    "name": "Antonio Filho",
+                    "text": "Fala isso não Cara. O Ricardo Oliveira é um excelente jogador. Centroavante no Brasil, exceto ele, você não acha. Ademais quer que ele opere milagres nessa draga cor de rosa?",
+                    "date": "2018-04-09T09:38:09",
+                    "likes": "23",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Matheus Birck",
+                    "text": "Que isso cara, ai falou besteira mesmo, eu sou Cruzeirense e a noticia que mais me matou de raiva durante a pré temporada foi Cruzeiro contratando Fred enquanto Atletico pegou Ricardo Oliveira, se quiser trocar, mandamos Sobis e Rafael Marques junto com o Fred.",
+                    "date": "2018-04-09T10:28:46",
+                    "likes": "9",
+                    "unlikes": "9"
+                },
+                {
+                    "name": "Oliver",
+                    "text": "Piada do Dia! O Atlético é igual mesário de eleição : Põe a mão no título, confere e entrega para o verdadeiro dono.",
+                    "date": "2018-04-09T11:29:56",
+                    "likes": "10",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Sangue Azul",
+                    "text": "Tá na hora de cobrar na justiça: não se paga multa por mercadoria que tá com defeito.....",
+                    "date": "2018-04-09T11:32:56",
+                    "likes": "2",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Sangue Azul",
+                    "text": "Bora ganhar Liberta!!! ZÊROOO!!!",
+                    "date": "2018-04-09T11:34:22",
+                    "likes": "19",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Bira Franca",
+                    "text": "Cara... o DEDE MITO marcou ele, que jeito que alguem joga ???",
+                    "date": "2018-04-09T14:11:10",
+                    "likes": "19",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 6
+        },
+        {
+            "name": "Antonio Filho",
+            "text": "Fala isso não Cara. O Ricardo Oliveira é um excelente jogador. Centroavante no Brasil, exceto ele, você não acha. Ademais quer que ele opere milagres nessa draga cor de rosa?",
+            "date": "2018-04-09T09:38:09",
+            "likes": "23",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Matheus Birck",
+            "text": "Que isso cara, ai falou besteira mesmo, eu sou Cruzeirense e a noticia que mais me matou de raiva durante a pré temporada foi Cruzeiro contratando Fred enquanto Atletico pegou Ricardo Oliveira, se quiser trocar, mandamos Sobis e Rafael Marques junto com o Fred.",
+            "date": "2018-04-09T10:28:46",
+            "likes": "9",
+            "unlikes": "9",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Oliver",
+            "text": "Piada do Dia! O Atlético é igual mesário de eleição : Põe a mão no título, confere e entrega para o verdadeiro dono.",
+            "date": "2018-04-09T11:29:56",
+            "likes": "10",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Sangue Azul",
+            "text": "Tá na hora de cobrar na justiça: não se paga multa por mercadoria que tá com defeito.....",
+            "date": "2018-04-09T11:32:56",
+            "likes": "2",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Sangue Azul",
+            "text": "Bora ganhar Liberta!!! ZÊROOO!!!",
+            "date": "2018-04-09T11:34:22",
+            "likes": "19",
+            "unlikes": "3",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Bira Franca",
+            "text": "Cara... o DEDE MITO marcou ele, que jeito que alguem joga ???",
+            "date": "2018-04-09T14:11:10",
+            "likes": "19",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Cesari",
+            "text": "NADA COMO UM POUCO DE VERGONHA NA CARA EM CAMPO....e a GENTE BOTOU ESSAS FRANGAS NO DEVIDO LUGAR DELAS!!!!",
+            "date": "2018-04-08T20:01:16",
+            "likes": "315",
+            "unlikes": "5",
+            "replies": [
+                {
+                    "name": "Jiribita",
+                    "text": "nem no mineiro o atletico nao consegui o bi kkkkkk",
+                    "date": "2018-04-08T20:44:48",
+                    "likes": "45",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Jiribita",
+                    "text": "vamos cruzeiro mostrar para o brasil nossa força por em minas nao tem adiversario",
+                    "date": "2018-04-08T20:47:24",
+                    "likes": "73",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "José Pereira",
+                    "text": "Tem muitos \"torcedores\" por aí que só sabem reclamar do time, mas não fazem NADA para ajudar o clube. Eu moro em São Paulo e sou sócio-torcedor do Cruzeiro, mesmo tendo poucas vantagens. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Aqui é o Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-08T23:54:15",
+                    "likes": "68",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "Marcio Pires",
+                    "text": "Se me associar vc para de postar",
+                    "date": "2018-04-09T12:43:15",
+                    "likes": "10",
+                    "unlikes": "3"
+                }
+            ],
+            "n_replies": 4
+        },
+        {
+            "name": "Lucas Amaral",
+            "text": "zeeeeeeeeeeeeeeeeeeeeeeeeeeeeroooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+            "date": "2018-04-09T12:34:21",
+            "likes": "5",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose",
+            "text": "Que será q aconteceu? o VELHOTE IDOSO PASTOR não fez nada ontem? Esse RICARDO OLIVEIRA é mesmo uma piada só mesmo o Galo pra contratar uma galinha morta dessas!",
+            "date": "2018-04-09T08:27:59",
+            "likes": "34",
+            "unlikes": "3",
+            "replies": [
+                {
+                    "name": "João Valadares",
+                    "text": "Bom mesmo é o Fred que a gente dispensou e vocês correram atrás achando que tavam fazendo um vantajão!",
+                    "date": "2018-04-09T10:35:12",
+                    "likes": "6",
+                    "unlikes": "18"
+                },
+                {
+                    "name": "Cruzeiroecelite",
+                    "text": "João Vá la e dares, E o Fredon veio de graça de vo6 frangolinas kkkkkkkkkkkkkkkkkkkk Ja sabe daquele ditado: De graça ate injeção na testa !!! kkkkkkkkkkkkkkkkkkkkkkkkk",
+                    "date": "2018-04-09T11:08:31",
+                    "likes": "9",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "O Ferro",
+            "text": "Realidade...Se estacionar os ônibus dos dois times em qualquer lugar do mundo e pedir crianças,para entrarem no time com mais títulos e glórias...Qual ônibus escolherão???Se colocar todas as glórias e títulos dos dois times em cada prato de uma balança...Para qual lado vai pender???...",
+            "date": "2018-04-09T11:01:36",
+            "likes": "11",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Anderson José",
+            "text": "Alguem sabe dizer se o fabio jogou ontem? Vi os mais de 90 minutos mas não encontrei ele. Kkkkkkkkkkkk",
+            "date": "2018-04-09T10:30:17",
+            "likes": "30",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Adison Souza",
+            "text": "quem ri por último ri melhor,...eu já sabia disto desde o tempo da minha tataravó.",
+            "date": "2018-04-08T21:13:04",
+            "likes": "76",
+            "unlikes": "2",
+            "replies": [
+                {
+                    "name": "José Pereira",
+                    "text": "Sou paulista mas nunca me identifiquei muito com os times daqui. Meu coração sempre foi cruzeirense desde criança. Resolvi então fazer meu sócio-torcedor do Cruzeiro, mesmo estando longe de BH. O mais importante é ajudar o clube. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T10:19:15",
+                    "likes": "19",
+                    "unlikes": "3"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Antunes Morais",
+            "text": "Tremeu, apelou e perdeu. Tadinhas das frangas rosadas.",
+            "date": "2018-04-08T22:24:58",
+            "likes": "92",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "José Pereira",
+                    "text": "Já convenci alguns amigos meus a fazerem o sócio-torcedor do Cruzeiro. Se queremos exigir boas contratações, devemos fazer nossa parte primeiro. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T10:18:38",
+                    "likes": "10",
+                    "unlikes": "4"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Eduardo Rodrigues",
+            "text": "Eterno 6x1 em HD",
+            "date": "2018-04-08T21:02:11",
+            "likes": "90",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Pedro Costa",
+                    "text": "Ou espinha de Peixe , vao ta sempre engasgado",
+                    "date": "2018-04-08T23:08:37",
+                    "likes": "4",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "José Pereira",
+                    "text": "Se você quer que a diretoria contrate bons jogadores, então seja sócio-torcedor e contribua para o clube. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T10:18:06",
+                    "likes": "4",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Robson",
+            "text": "Não podem ver uma camisa azul com 5 estrelas, que começam a TREMER!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "date": "2018-04-08T23:18:35",
+            "likes": "104",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Adriano Pires",
+                    "text": "Deram sorte, pq o Cruzeiro tirou o pé...",
+                    "date": "2018-04-08T23:47:27",
+                    "likes": "47",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Heli Santos",
+                    "text": "O Mano não é !",
+                    "date": "2018-04-09T01:05:44",
+                    "likes": "6",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Luís Eugênio",
+                    "text": "Não só com cinco estrelas! Quando as galinhas veem azul numa camisa tricolor aqui do Sul elas se borram! XD",
+                    "date": "2018-04-09T07:49:57",
+                    "likes": "16",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "José Pereira",
+                    "text": "O Cruzeiro precisa do apoio da torcida para deixar as contas do clube em dia. Vamos aumentar o número de sócios-torcedores. Eu moro em São Paulo e sou sócio, mesmo tendo poucas vantagens. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T10:08:25",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 4
+        },
+        {
+            "name": "Herivelton Campos",
+            "text": "A FALTA QUE O ANELKA FAZ.....kkkkkkk",
+            "date": "2018-04-08T21:04:18",
+            "likes": "102",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "José Pereira",
+                    "text": "Hoje em dia qualquer pessoa pode ser sócio-torcedor do Cruzeiro, com apenas 1 real por dia (30 reais por mês). CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Aqui é o Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T10:07:10",
+                    "likes": "3",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Rodrigo Castro",
+            "text": "6 x 1 , sem comentários",
+            "date": "2018-04-09T09:21:49",
+            "likes": "8",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "José Souza",
+            "text": "Adoro quando alguém canta vitória antes do apito final. O pessoal do horto não aprende. Toda arrogância será castigada. Primeiro de mais títulos que virão este ano. Vamo que vamo Cruzeiro!",
+            "date": "2018-04-09T09:11:26",
+            "likes": "16",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose Cruz",
+            "text": "sou cruzeirense mas acho que o cruzeiro deveria ter feito mais gols. 2 x 0 foi pouco.",
+            "date": "2018-04-09T08:00:47",
+            "likes": "51",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "André Mota",
+                    "text": "Cruzeiro, maior do Brasil!!",
+                    "date": "2018-04-09T08:10:40",
+                    "likes": "13",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Daniel Freitas",
+                    "text": "Jose Cruz eu também disse que seria acima de 2 a 0! mas valeu.",
+                    "date": "2018-04-09T08:25:23",
+                    "likes": "6",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Alex Pereira",
+            "text": "Galera do Cruzeiro fica comemorando, mas se o Anelka tivesse em campo seria diferente.",
+            "date": "2018-04-09T08:09:57",
+            "likes": "36",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marco Túlio",
+            "text": "Paralisaram. Nem tremeram, nem se mexeram .kkkkkk",
+            "date": "2018-04-08T20:22:18",
+            "likes": "136",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Pedro Costa",
+                    "text": "Fabio nao fez nem uma defesa , nao teve adversario",
+                    "date": "2018-04-08T23:12:08",
+                    "likes": "55",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "José Pereira",
+                    "text": "ATENÇÃO torcida do Cruzeiro no Interior de Minas Gerais e em outros estados: o Cruzeiro precisa de vocês. Com apenas 1 real por dia é possível ser sócio-torcedor. Eu moro em São Paulo e sou sócio-torcedor do Cruzeiro, mesmo tendo poucas vantagens. CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T08:07:28",
+                    "likes": "6",
+                    "unlikes": "3"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Mateus Ferreira",
+            "text": "tudo normal em MG",
+            "date": "2018-04-08T20:23:57",
+            "likes": "177",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "José Pereira",
+                    "text": "E aí galerinha que fica só no post aqui no Globo Esporte, vai aderir ao sócio torcedor do Maior de Minas ou não? CAMPANHA: vamos levar 50 mil cruzeirenses em TODOS os jogos do Cruzeiro no Mineirão. Seja sócio-torcedor do Cruzeirão Cabuloso, o Time do Povo.",
+                    "date": "2018-04-09T08:04:48",
+                    "likes": "16",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Antonio Araújo",
+            "text": "Caquético chegou à final com ajuda da federação, vários jogos sendo favorecido. Deu a lógica, qdo acabou o favorecimento, não aguentou o tranco.!",
+            "date": "2018-04-09T07:36:33",
+            "likes": "7",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Cardoso Oliveira",
+            "text": "Quando esta valendo esta valendo e ai quem treme? Vimos nosso Cruzeiro ontem jogar como gostamos de ver raça, determinação, vontade de vencer é isto ai parabéns a todos os jogadores que ouviram nosso recado, parabéns de modo especial a zaga Dedé e Leo foram dois monstros em campo, R Sobis entrou bem e Rafinha entrou a mil por hora valeuuuuuuuuuuu",
+            "date": "2018-04-09T07:02:36",
+            "likes": "46",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Irineu Oliveira",
+            "text": "Se o Cruzeiro treme no Horto, o galo GEEEEEEME no Mineirão!!!",
+            "date": "2018-04-09T03:52:29",
+            "likes": "26",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alexandre Kalil",
+            "text": "nos se borramos.. fomos humilhados... todos amarelaram..",
+            "date": "2018-04-09T01:27:12",
+            "likes": "53",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Waldir Oliveira",
+            "text": "Deu rui pras COCOTAS.. kkkkkkkkkkkkkkkkkk",
+            "date": "2018-04-09T01:08:52",
+            "likes": "17",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Pedro Costa",
+            "text": "Comprei uma TV ,de 40 polegadas , pra ver o titulo do ZERAO , na certeza que ia ser Campeao , porque Domingo foi 1de Abril 2018",
+            "date": "2018-04-08T23:06:11",
+            "likes": "24",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Nilceia Almeida",
+            "text": "Otero queria tirar Edilson na porrada porque sabia da capacidade dele em campo .Tanto é que o gol foi assistência dele. Joca demais . Aí já viu né? levou foi ferro. kkkkkkkkkkkkkk",
+            "date": "2018-04-08T21:54:56",
+            "likes": "52",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose Nascimento",
+            "text": "kkkkkkk CRUZEIRAO CABULOSO",
+            "date": "2018-04-08T21:46:07",
+            "likes": "26",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "clesio neves",
+            "text": "quem manda",
+            "date": "2018-04-08T20:52:06",
+            "likes": "39",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Rannder Franklin",
+                    "text": "kkkkkkkkk",
+                    "date": "2018-04-08T20:55:22",
+                    "likes": "18",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Mineiro32",
+                    "text": "2011 cruzeiro ganhou na arena do Jacaré encima de vcs frangas 2a0 tô ti refrescando a memória",
+                    "date": "2018-04-08T21:34:26",
+                    "likes": "21",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Herivelton Campos",
+            "text": "ti, ti, ti, ti, pruuuu, pruuuu, KKKK",
+            "date": "2018-04-08T21:04:03",
+            "likes": "27",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Herivelton Campos",
+            "text": "CHACOTA ....ess timim so nos dá alegrias...frangas",
+            "date": "2018-04-08T21:02:43",
+            "likes": "26",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Wflandder Gabriel",
+            "text": "Tudo dentro da normalidade... Campeão, é o MAIOR DE MINAS!",
+            "date": "2018-04-08T21:00:18",
+            "likes": "28",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Otaviano Pires",
+            "text": "titulo è com o cruzeiro",
+            "date": "2018-04-08T20:56:47",
+            "likes": "16",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alexsandro Santos",
+            "text": "Chacota cocota",
+            "date": "2018-04-08T20:47:06",
+            "likes": "15",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Luís Eugênio",
+            "text": "A galinhada qdo é pra valer aperta! Time pequeno é assim! Mas deu a lógica: ganhou o Maior de Minas",
+            "date": "2018-04-08T20:42:29",
+            "likes": "24",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Marcelo Matos",
+            "text": "Silêncio na galinheiro e na página do Cruzeiro. Kkkkkkkkk",
+            "date": "2018-04-08T20:24:50",
+            "likes": "21",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/futebol/times/cruzeiro/noticia/zoacoes-de-cruzeirenses-apos-titulo-do-mineiro-vao-de-lula-a-ronaldinho-gaucho.ghtml"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 263,
+    "team_id": 19,
+    "match_id": 131,
+    "status": "v",
+    "shots": 12,
+    "shots_on_goal": 6,
+    "fouls": 13,
+    "offsides": 1,
+    "ball_possession": 40,
+    "corners": 4,
+    "cross": 6,
+    "yellow_cards": 3,
+    "red_cards": 2,
+    "goals": "0"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 228,
+    "team_id": 15,
+    "match_id": 114,
+    "status": "h",
+    "shots": 8,
+    "shots_on_goal": 1,
+    "fouls": 19,
+    "offsides": 2,
+    "ball_possession": 38,
+    "corners": 5,
+    "cross": 5,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "goals": 1
+}

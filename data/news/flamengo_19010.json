@@ -1,0 +1,781 @@
+{
+    "time": "flamengo",
+    "date": "23/10/2018 10h34",
+    "title": "Flamengo x Palmeiras: 38 mil ingressos já foram vendidos para o duelo do Maracanã. Torcida do Flamengo se movimenta para jogo diante do líder do Campeonato Brasileiro. Confronto será sábado, ás 19h. Venda para público geral abre nesta quarta-feira",
+    "author": "GloboEsporte.com",
+    "text": [
+        "A expectativa é de casa cheia neste sábado, no Maracanã. Na manhã desta terça-feira, a torcida rubro-negra já havia comprado 38 mil ingressos para o duelo diante do Palmeiras. Por enquanto, a venda é limitada aos sócios-torcedores, que já esgotaram o setor norte do estádio. A venda para público geral abre nesta quarta-feira.",
+        "O jogo tem caráter decisivo para o Rubro-Negro. Atualmente, a equipe de Dorival Junior está na segunda colocação, com 58 pontos. O Palmeiras, por sua vez, é o líder do Campeonato, com quatro pontos a mais.",
+        "O Rubro-Negro ainda reencontra sua torcida embalado pela goleada diante do Paraná, fora de casa, por 4 a 0. A equipe marcou 10 gols e não sofreu nenhum nos últimos dez jogos e tenta embalar na briga pelo título.",
+        "Foram disponibilizados 2.700 ingressos para a torcida visitante. A carga foi comprada pelo Palmeiras, que comercializará as entradas.",
+        "",
+        "Flamengo x Palmeiras - sábado - 19h - Maracanã",
+        "Horário de abertura:\n20/10, 10hs: Raça Hexa\n20/10, 20hs: Raça Penta\n22/10, 10hs: Raça Tetra\n23/10, 10hs: Onde Estiver Hexa\n23/10, 14hs: Onde Estiver Penta\n23/10, 20hs: Onde Estiver Tetra\n24/10, 10hs: Nação Jr e Público Geral online\n24/10, 10hs: Pontos de Venda\n27/10, 14hs: Encerramento das vendas online.",
+        "Norte (Esgotado)\n- Sócio-torcedor dos planos Raça e superiores: R$15,00\n- Sócio-torcedor do plano Onde Estiver: R$25,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$50,00 (meia R$25,00)",
+        "Leste Superior\n- Sócio-torcedor dos planos Raça e superiores: R$20,00\n- Sócio-torcedor do plano Onde Estiver: R$35,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$70,00 (meia R$35,00)",
+        "Leste Inferior\n- Sócio-torcedor dos planos Raça e superiores: R$25,00\n- Sócio-torcedor do plano Onde Estiver: R$40,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$80,00 (meia R$40,00)",
+        "Oeste Inferior\n- Sócio-torcedor dos planos Raça e superiores: R$25,00\n- Sócio-torcedor do plano Onde Estiver: R$40,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$80,00 (meia R$40,00)",
+        "Maracanã Mais\n- Sócio-torcedor dos planos Raça e superiores: R$115,00\n- Sócio-torcedor do plano Onde Estiver: R$145,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$225,00 (meia R$145,00)",
+        "Sul\n- Sócio-torcedor dos planos Raça e superiores: R$15,00\n- Sócio-torcedor do plano Onde Estiver: R$25,00\n- Sócio-torcedor do plano Nação Jr. e Público Geral: R$50,00 (meia R$25,00)",
+        "Pontos de venda físicos e retirada de ingressos:",
+        "Maracanã – Bilheteria 02\nDia 25/10/2018 e 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 até o final do primeiro tempo",
+        "Gávea (Sócios do clube)\nAvenida Borges de Medeiros, 997 - Lagoa - Rio de Janeiro – RJ\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Gávea (Público geral)\nPraça Nossa Senhora Auxiliadora, s/nº - Lagoa - Rio de Janeiro – RJ\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Lojas oficiais do Flamengo:",
+        "Espaço Rubro-Negro (Centro)\nRua da Quitanda, nº 87, Rio de Janeiro – RJ\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00",
+        "Nação Rubro-Negra (Downtown)\nAvenida das Américas nº 500, loja 114 - Barra, Rio de Janeiro, RJ.\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Espaço Rubro-Negro (Méier)\nRua Dias da Cruz, nº203, Loja B - Méier, Rio de Janeiro – RJ.\nDia 24/09/2018 a 26/09/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Espaço Rubro-Negro (Shopping Nova América)\nAv. Pastor Martin Luther King Jr., nº126, 1ºpiso = Del Castilho, Rio de Janeiro – RJ.\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Espaço Rubro-Negro Madureira (Shopping Madureira)\nEstrada do Portela, nº222, 3º piso – Madureira, Rio de Janeiro, RJ.\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Espaço Rubro-Negro (Shopping Plaza Niterói) – Exclusivo para troca de ingresso de sócio-torcedor\nRua Quinze de Novembro, nº8, 1º piso – Centro - Niterói – RJ.\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00",
+        "Espaço Rubro-Negro (Gávea) – Exclusivo para troca de ingresso de sócio-torcedor\nAvenida Borges de Medeiros, 997 - Lagoa - Rio de Janeiro – RJ\nDia 24/10/2018 a 26/10/2018 - Horário de 10:00 às 17:00\nDia 27/10/2018 – Horário de 10:00 às 14:00"
+    ],
+    "comments": [
+        {
+            "name": "Leyton Gomes",
+            "text": "Jose Silva, Jumento... Oooooo Zélélé... Morra de Inveja, não devemos nada a Ninguém e pra que Ter Estadio se nossa Torcida é em Todo o Brasil. Qdo Precisarmos alugaremos. Sai mais Barato.",
+            "date": "2018-10-25T00:24:32",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "José Silva",
+            "text": "O mundo, quer ver o Maior das Américas! Sigam o líder, seus bolsa-estádio! Mais uma vez (como sempre) vão jogar em estádio do governo. E ainda se acham grandes.",
+            "date": "2018-10-23T15:54:06",
+            "likes": "9",
+            "unlikes": "40",
+            "replies": [
+                {
+                    "name": "Henrique Oliveira",
+                    "text": "KKKKKKKKKKKKKKKKKKK maior das Américas com 1 libertadores e sem mundial?? É piada pronta! Maior em torcida mais arrogante e prepotente, só se for! SRN",
+                    "date": "2018-10-23T16:43:42",
+                    "likes": "21",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Juliano Fla",
+                    "text": "Bi rebaixado....uma vergonha eterna.. maior que os títulos comprados na CBF e recebidos via Fax....",
+                    "date": "2018-10-23T19:17:20",
+                    "likes": "16",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "Framenguista tudo com inveja do Gigante Alviverde...",
+                    "date": "2018-10-23T20:05:08",
+                    "likes": "0",
+                    "unlikes": "15"
+                },
+                {
+                    "name": "Willian Pereira",
+                    "text": "Palmeiras não tem Mundial ...",
+                    "date": "2018-10-23T20:28:51",
+                    "likes": "17",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Eurico Vice",
+                    "text": "PARMEIRA TIME PEQUENO E DE SEGUNDA DIVISÃO.",
+                    "date": "2018-10-24T08:32:45",
+                    "likes": "4",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Juliano Souza",
+                    "text": "ultimo jogo do palmeira foi aonde mesmo hein? kkkkkkkkk",
+                    "date": "2018-10-24T10:48:47",
+                    "likes": "3",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Flasileiro",
+                    "text": "O ESTÁDIO É DA PATROCINADORA SEU ZÉ RUELA.",
+                    "date": "2018-10-24T11:28:34",
+                    "likes": "0",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Jacson Nunes",
+                    "text": "O maior das américas foi uma grande piada. è a inveja da maior torcida do mundo, enquanto eles não passam nem da do Curintia.",
+                    "date": "2018-10-24T12:52:37",
+                    "likes": "0",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Leyton Gomes",
+                    "text": "Oooooo Zélélé... Morra de Inveja, não devemos nada a Ninguém e pra que Ter Estadio se nossa Torcida é em Todo o Brasil. Qdo Precisarmos alugaremos. Sai mais Barato.",
+                    "date": "2018-10-25T00:24:01",
+                    "likes": "0",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 9
+        },
+        {
+            "name": "Henrique Oliveira",
+            "text": "KKKKKKKKKKKKKKKKKKK maior das Américas com 1 libertadores e sem mundial?? É piada pronta! Maior em torcida mais arrogante e prepotente, só se for! SRN",
+            "date": "2018-10-23T16:43:42",
+            "likes": "21",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Juliano Fla",
+            "text": "Bi rebaixado....uma vergonha eterna.. maior que os títulos comprados na CBF e recebidos via Fax....",
+            "date": "2018-10-23T19:17:20",
+            "likes": "16",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "Framenguista tudo com inveja do Gigante Alviverde...",
+            "date": "2018-10-23T20:05:08",
+            "likes": "0",
+            "unlikes": "15",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Willian Pereira",
+            "text": "Palmeiras não tem Mundial ...",
+            "date": "2018-10-23T20:28:51",
+            "likes": "17",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eurico Vice",
+            "text": "PARMEIRA TIME PEQUENO E DE SEGUNDA DIVISÃO.",
+            "date": "2018-10-24T08:32:45",
+            "likes": "4",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Juliano Souza",
+            "text": "ultimo jogo do palmeira foi aonde mesmo hein? kkkkkkkkk",
+            "date": "2018-10-24T10:48:47",
+            "likes": "3",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Flasileiro",
+            "text": "O ESTÁDIO É DA PATROCINADORA SEU ZÉ RUELA.",
+            "date": "2018-10-24T11:28:34",
+            "likes": "0",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jacson Nunes",
+            "text": "O maior das américas foi uma grande piada. è a inveja da maior torcida do mundo, enquanto eles não passam nem da do Curintia.",
+            "date": "2018-10-24T12:52:37",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Leyton Gomes",
+            "text": "Oooooo Zélélé... Morra de Inveja, não devemos nada a Ninguém e pra que Ter Estadio se nossa Torcida é em Todo o Brasil. Qdo Precisarmos alugaremos. Sai mais Barato.",
+            "date": "2018-10-25T00:24:01",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Claudinei",
+            "text": "VAMOS BOCA..... VAMOS MENGAO... PEPA PIG",
+            "date": "2018-10-24T10:21:25",
+            "likes": "3",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Renato Oliveira",
+            "text": "Qual o link pra compra de ingresso online?",
+            "date": "2018-10-24T10:00:50",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Elemilton Nascimento",
+            "text": "Desculpa Flamengo",
+            "date": "2018-10-24T08:58:15",
+            "likes": "1",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Elemilton Nascimento",
+            "text": "Vamos Flamenfo",
+            "date": "2018-10-24T08:58:02",
+            "likes": "0",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Douglas Herzog",
+            "text": "Se ganhar, acho que o time embala de vez e ninguém segura mais! SRN",
+            "date": "2018-10-23T12:30:34",
+            "likes": "106",
+            "unlikes": "7",
+            "replies": [
+                {
+                    "name": "Carlos Júnior",
+                    "text": "Infelizmente ainda teremos Grêmio e Cruzeiro pela frente! :/",
+                    "date": "2018-10-23T17:17:58",
+                    "likes": "6",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "Juliano Fla",
+                    "text": "Cruzeiro relaxado na penúltima rodada... e Grêmio com os reservas na ante penultima, desde que esteja na final da libertadores.....ou seja, sim se ganharmos o SP na outras emana no Morumbi, acredito sim no Título... os próximos dois jogos vão dizer se o Título é plausível...",
+                    "date": "2018-10-23T19:16:11",
+                    "likes": "21",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Eurico Vice",
+                    "text": "HEPTA...............",
+                    "date": "2018-10-24T08:33:33",
+                    "likes": "1",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "Carlos Júnior",
+            "text": "Infelizmente ainda teremos Grêmio e Cruzeiro pela frente! :/",
+            "date": "2018-10-23T17:17:58",
+            "likes": "6",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Juliano Fla",
+            "text": "Cruzeiro relaxado na penúltima rodada... e Grêmio com os reservas na ante penultima, desde que esteja na final da libertadores.....ou seja, sim se ganharmos o SP na outras emana no Morumbi, acredito sim no Título... os próximos dois jogos vão dizer se o Título é plausível...",
+            "date": "2018-10-23T19:16:11",
+            "likes": "21",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eurico Vice",
+            "text": "HEPTA...............",
+            "date": "2018-10-24T08:33:33",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Sandro Corrêa",
+            "text": "Vamos fazer nossa parte .pedimos que o time faça o mesmo . na copa do brasil contra o curintia no maracanã ...libertadores contra o cruzeiro são exemplos a serem esquecidos ....vamos pra cima com raça , fazendo oque sabem ...e com o coração na ponta da chuteira !! SRN",
+            "date": "2018-10-23T11:59:59",
+            "likes": "138",
+            "unlikes": "6",
+            "replies": [
+                {
+                    "name": "Goncalves",
+                    "text": "Agora vai torcida raiz... O preço esta acessível, pode escrever aí vai ser o maior publico do BR18.",
+                    "date": "2018-10-23T17:36:12",
+                    "likes": "27",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Gomes",
+                    "text": "Já tinha desiludido de tudo, mas, a esperança voltou! Quem sabe ainda salvaremos legal o ano!",
+                    "date": "2018-10-23T19:06:55",
+                    "likes": "19",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Poneymalditocrf",
+                    "text": "A MAIOR TORCIDA DO MUNDO FAZ A DIFERENÇA SEMPRE !!",
+                    "date": "2018-10-24T01:58:30",
+                    "likes": "6",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "Goncalves",
+            "text": "Agora vai torcida raiz... O preço esta acessível, pode escrever aí vai ser o maior publico do BR18.",
+            "date": "2018-10-23T17:36:12",
+            "likes": "27",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Gomes",
+            "text": "Já tinha desiludido de tudo, mas, a esperança voltou! Quem sabe ainda salvaremos legal o ano!",
+            "date": "2018-10-23T19:06:55",
+            "likes": "19",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Poneymalditocrf",
+            "text": "A MAIOR TORCIDA DO MUNDO FAZ A DIFERENÇA SEMPRE !!",
+            "date": "2018-10-24T01:58:30",
+            "likes": "6",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "Quando abri páginas do ge notícias sobre Libertadores predomina nas manchetes... fiquei sabendo q Grêmio vai jogar hoje, Palmeiras amanhã.... mas não vi nada sobre framengo... ALGUÉM SABE QUANDO FRAMENGO VAI JOGAR?",
+            "date": "2018-10-23T14:32:32",
+            "likes": "8",
+            "unlikes": "52",
+            "replies": [
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "Alguém sabe quando o framengo irá ter seu próprio estádio ?",
+                    "date": "2018-10-23T20:01:53",
+                    "likes": "2",
+                    "unlikes": "6"
+                },
+                {
+                    "name": "Ana Brito",
+                    "text": "Palestrino e seu amigo imaginário...",
+                    "date": "2018-10-23T21:21:02",
+                    "likes": "0",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "E ae Aninha! Agora vc acertou. Sou imaginário pq ele nunca me viu .... kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+                    "date": "2018-10-23T22:09:36",
+                    "likes": "0",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "E prepara o lombo que surra no Maraca vai ser grande. 60 mil urubus saindo caladinhos...",
+                    "date": "2018-10-23T22:19:06",
+                    "likes": "0",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Ana Brito",
+                    "text": "Sua máscara caiu, Palestrino!!",
+                    "date": "2018-10-23T22:35:21",
+                    "likes": "1",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Paulo Junior",
+                    "text": "PROCUREI NA PAGINA DO PAUMEIRAS E NAO ACHEI O MUNDIAL...ALGUEM SABE DIZER AONDE ESTA? KKKKKKKKKKKKKKKKKKKK GUARANI DA CAPITAL!",
+                    "date": "2018-10-23T22:41:07",
+                    "likes": "6",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Casimiro farzoni",
+                    "text": "Procurei no Google o estádio do palmeiras, e achei o show da Shakira.",
+                    "date": "2018-10-23T22:58:12",
+                    "likes": "1",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "????? vcs todos beberam 51...",
+                    "date": "2018-10-23T23:51:19",
+                    "likes": "0",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "Próximo Domingo, procure no Google o estádio do Maracanã e irá achar show do Palmeiras...",
+                    "date": "2018-10-23T23:54:30",
+                    "likes": "2",
+                    "unlikes": "7"
+                },
+                {
+                    "name": "Eterno Palmeiras",
+                    "text": "Adoramos fregueses, chega logo sábado....",
+                    "date": "2018-10-24T00:01:48",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 10
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "Alguém sabe quando o framengo irá ter seu próprio estádio ?",
+            "date": "2018-10-23T20:01:53",
+            "likes": "2",
+            "unlikes": "6",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ana Brito",
+            "text": "Palestrino e seu amigo imaginário...",
+            "date": "2018-10-23T21:21:02",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "E ae Aninha! Agora vc acertou. Sou imaginário pq ele nunca me viu .... kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+            "date": "2018-10-23T22:09:36",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "E prepara o lombo que surra no Maraca vai ser grande. 60 mil urubus saindo caladinhos...",
+            "date": "2018-10-23T22:19:06",
+            "likes": "0",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ana Brito",
+            "text": "Sua máscara caiu, Palestrino!!",
+            "date": "2018-10-23T22:35:21",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Paulo Junior",
+            "text": "PROCUREI NA PAGINA DO PAUMEIRAS E NAO ACHEI O MUNDIAL...ALGUEM SABE DIZER AONDE ESTA? KKKKKKKKKKKKKKKKKKKK GUARANI DA CAPITAL!",
+            "date": "2018-10-23T22:41:07",
+            "likes": "6",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Casimiro farzoni",
+            "text": "Procurei no Google o estádio do palmeiras, e achei o show da Shakira.",
+            "date": "2018-10-23T22:58:12",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "????? vcs todos beberam 51...",
+            "date": "2018-10-23T23:51:19",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "Próximo Domingo, procure no Google o estádio do Maracanã e irá achar show do Palmeiras...",
+            "date": "2018-10-23T23:54:30",
+            "likes": "2",
+            "unlikes": "7",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eterno Palmeiras",
+            "text": "Adoramos fregueses, chega logo sábado....",
+            "date": "2018-10-24T00:01:48",
+            "likes": "3",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Rosely Pereira",
+            "text": "Salve, Nação! Participe do grupo do Mengão no WhatsApp. Temos bolão, quiz e outras ferramentas de interatividade! Quer ser adicionado, basta chamar no 21 969630465.SRN! Isso é Flamengo",
+            "date": "2018-10-23T22:18:50",
+            "likes": "3",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Flasileiro",
+            "text": "VAI DAR TUDO CERTO, VAMOS SUFOCAR, PRESSIONAR OS 90 MINUTOS E QUEM SABE MAIS UMA GOLEADA?",
+            "date": "2018-10-23T20:02:29",
+            "likes": "18",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Jose Silva",
+            "text": "PRA SER CAMPEÃO, A VITÓRIA CONTRA O PALMEIRAS É FUNDAMENTAL E UM TROPEÇO SERÁ FATAL. OU GANHA OU DÁ ADEUS AO TÍTULO",
+            "date": "2018-10-23T14:08:35",
+            "likes": "90",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Paulo Paulistano",
+                    "text": "Tchau",
+                    "date": "2018-10-23T16:19:46",
+                    "likes": "1",
+                    "unlikes": "8"
+                },
+                {
+                    "name": "José Silva",
+                    "text": "MAS PELO JEITO FICARÃO SÓ NO CHEIRINHO MESMO.",
+                    "date": "2018-10-23T16:38:31",
+                    "likes": "5",
+                    "unlikes": "18"
+                },
+                {
+                    "name": "Flasileiro",
+                    "text": "JOSÉ SILVA TAMBÉM? VC DEVE SER PARENTE DA PEPPA PIG.",
+                    "date": "2018-10-23T19:12:23",
+                    "likes": "11",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "Paulo Paulistano",
+            "text": "Tchau",
+            "date": "2018-10-23T16:19:46",
+            "likes": "1",
+            "unlikes": "8",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "José Silva",
+            "text": "MAS PELO JEITO FICARÃO SÓ NO CHEIRINHO MESMO.",
+            "date": "2018-10-23T16:38:31",
+            "likes": "5",
+            "unlikes": "18",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Flasileiro",
+            "text": "JOSÉ SILVA TAMBÉM? VC DEVE SER PARENTE DA PEPPA PIG.",
+            "date": "2018-10-23T19:12:23",
+            "likes": "11",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Deyvson Souza",
+            "text": "o placar do jogo será o numero de mundial de clubes de cada equipe.. Flamengo 1 x 0 palmeiras ...",
+            "date": "2018-10-23T19:08:27",
+            "likes": "13",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabio Costa",
+            "text": "E verdade que paulista toma banho no rio tietê kkkkkkkk",
+            "date": "2018-10-23T17:15:42",
+            "likes": "10",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aníbal Martins",
+            "text": "Em qual dicionário jogo de FUTEBOL é sinônimo de \"DUELO\" ?????",
+            "date": "2018-10-23T13:31:02",
+            "likes": "8",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Sérgio Cavalcante",
+                    "text": "CHEIRINHO DE ARMAÇÃO PARA O FLAMENGO.",
+                    "date": "2018-10-23T13:47:35",
+                    "likes": "3",
+                    "unlikes": "24"
+                },
+                {
+                    "name": "Joiram Novais",
+                    "text": "Já começou o mimimimi ...",
+                    "date": "2018-10-23T17:13:46",
+                    "likes": "11",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Ribeiro",
+            "text": "Espero que tenham colocado mais de 60 mil à venda",
+            "date": "2018-10-23T16:34:51",
+            "likes": "13",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Klaus UrubuEterno",
+            "text": "No minimo 60 mil para ver o show do MENGÃO (Flamengo 3x0 BBalmeiras). Às p2ppinhas-pings, vão ficar descontroladas...",
+            "date": "2018-10-23T12:37:50",
+            "likes": "80",
+            "unlikes": "6",
+            "replies": [
+                {
+                    "name": "Paulo Paulistano",
+                    "text": "A torcida do Flamengo canta e vibra ou fica muda.kkkk",
+                    "date": "2018-10-23T16:19:26",
+                    "likes": "0",
+                    "unlikes": "9"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Lorenzo",
+            "text": "3 a 0 flamengo!!",
+            "date": "2018-10-23T15:18:37",
+            "likes": "20",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Paulo Paulistano",
+                    "text": "Cheirinho de novo",
+                    "date": "2018-10-23T16:18:45",
+                    "likes": "1",
+                    "unlikes": "6"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Carlos Rodrigues",
+            "text": "eu quero ver a casa bem cheia , para o verdão dar o seu show kkkkk",
+            "date": "2018-10-23T14:57:57",
+            "likes": "9",
+            "unlikes": "41",
+            "replies": [
+                {
+                    "name": "Afrânio Olinto",
+                    "text": "isso É",
+                    "date": "2018-10-23T15:16:12",
+                    "likes": "0",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "paulo santos",
+                    "text": "-o parmeiras nao tem mundialkkkkkkkk",
+                    "date": "2018-10-23T15:18:51",
+                    "likes": "7",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "paulo santos",
+                    "text": "bi rebaixado",
+                    "date": "2018-10-23T15:19:36",
+                    "likes": "16",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Marcos Quintal",
+                    "text": "SO SE FOR SHOW DE VIOLÊNCIA OU ROUBALHEIRA COMO NO JOGO DO PRIMEIRO TURNO.",
+                    "date": "2018-10-23T15:46:07",
+                    "likes": "8",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 4
+        },
+        {
+            "name": "Jose Alves",
+            "text": "Ahh, só pra lembrar que o porquinho aí não tem Mundial! Kkkkkkkk FLA 2 X 0 PAL",
+            "date": "2018-10-23T13:51:20",
+            "likes": "50",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Marcos Mengão",
+                    "text": "e é BI REBAIXADO.",
+                    "date": "2018-10-23T14:41:41",
+                    "likes": "21",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Djalma Júnior",
+            "text": "1 x 0 ta bom demais ! Fé em Deus ! Mengoooooo",
+            "date": "2018-10-23T14:14:24",
+            "likes": "26",
+            "unlikes": "0",
+            "replies": [
+                {
+                    "name": "Marcelo Oliveira",
+                    "text": "Menos de 3 gols perde a graça. O Mengão agora só ganha de 3 pra cima",
+                    "date": "2018-10-23T14:41:18",
+                    "likes": "13",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Leonardo Oliveira",
+            "text": "Não levou gol nos últimos 4 jogos* ....só tem estágiario msm....isso aqui é Flamengo!",
+            "date": "2018-10-23T14:27:59",
+            "likes": "15",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alberto Junior",
+            "text": "vou da meu palpite : Flamengo 1x1 palmeiras",
+            "date": "2018-10-23T13:02:55",
+            "likes": "3",
+            "unlikes": "53",
+            "replies": [
+                {
+                    "name": "Marcelo Valente",
+                    "text": "3x0 mengão phorra!!! Isso aqui é FLAMENGO!!!",
+                    "date": "2018-10-23T13:21:45",
+                    "likes": "32",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/futebol/times/flamengo/noticia/flamengo-x-palmeiras-38-mil-ingressos-vendidos-para-duelo-do-maracana.ghtml"
+}

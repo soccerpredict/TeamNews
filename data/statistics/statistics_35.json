@@ -1,0 +1,16 @@
+{
+    "id": 35,
+    "team_id": 2,
+    "match_id": 17,
+    "status": "v",
+    "shots": 3,
+    "shots_on_goal": 3,
+    "fouls": 13,
+    "offsides": 0,
+    "ball_possession": 55,
+    "corners": 4,
+    "cross": 14,
+    "yellow_cards": 1,
+    "red_cards": 0,
+    "goals": "1"
+}

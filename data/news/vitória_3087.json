@@ -1,0 +1,994 @@
+{
+    "time": "vitória",
+    "date": "19/01/2018 08h20",
+    "title": "Presidente do Vitória faz ultimato ao Cruzeiro por pagamento de David.Ricardo David diz que clube mineiro tem até esta sexta-feira para decidir se irá pagar pelo atacante ou o devolverá para tratamento em Salvador",
+    "author": "João Salvador e Thiago Pereira",
+    "text": [
+        "A sexta-feira promete ser decisiva para Vitória e Cruzeiro acertarem uma questão que parecia resolvida. Anunciado no início do ano pela equipe mineira, o atacante David se recupera de uma lesão muscular, motivo pelo qual perdeu a pré-temporada. Por conta do problema médico, o clube celeste ainda não efetuou o pagamento ao Rubro-Negro pela compra do jogador. Em conversa com o GloboEsporte.com, o presidente do time baiano, Ricardo David, revelou um ultimato para que a situação se resolva. Ou a Raposa quita a dívida ou devolve o jogador para que o tratamento seja finalizado em Salvador.",
+        "- Nós já demos um ultimato ao Cruzeiro ontem [quarta-feira], onde eles precisam até amanhã [sexta-feira] nos dar respostas. Se vão efetivar o negócio fazendo o pagamento ou se nos devolvem o atleta para que nós possamos fazer a conclusão de seu tratamento. É uma coisa ou outra – disse Ricardo David no coquetel de lançamento do Campeonato Baiano 2018.",
+        "David se machucou na penúltima rodada do Campeonato Brasileiro 2017, na partida contra a Ponte Preta. Em entrevista no dia 5, Itair Machado, vice-presidente de futebol do Cruzeiro, informou que a previsão para o retorno do atacante aos treinos, a princípio, seria para o dia 15 de janeiro. Mas, até o momento, ele segue sem participar das atividades com bola.",
+        "O pagamento pelos direitos econômicos de David é muito importante para o Vitória. O clube baiano atravessa uma crise financeira, o que tem criado dificuldades para a contratação de reforços. Recentemente, o Conselho Deliberativo do clube reprovou a proposta de orçamento apresentada para 2018 e aprovou um plano com R$ 16 milhões para custear as despesas nos meses de janeiro e fevereiro."
+    ],
+    "comments": [
+        {
+            "name": "Aloízio",
+            "text": "Só uma coisa: o time do Bahia esse ano ta muito melhor que o do Vitória",
+            "date": "2018-01-19T15:17:09",
+            "likes": "14",
+            "unlikes": "27",
+            "replies": [
+                {
+                    "name": "Beto Valente",
+                    "text": "E o Botafogo da Paraíba?",
+                    "date": "2018-01-19T15:53:20",
+                    "likes": "18",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "João Campos",
+                    "text": "O isso tem a ver com a matéria??",
+                    "date": "2018-01-19T16:34:19",
+                    "likes": "5",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Antonio Silveira",
+                    "text": "O pior é que o jogador tava tão alegre com a camisa cheia de estrelas",
+                    "date": "2018-01-20T00:37:40",
+                    "likes": "1",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Diogenes Gondim",
+                    "text": "O Paraíba está pior que o Vitória e meteu 1x0, vem aí 7x1 a lá Alemanha",
+                    "date": "2018-01-20T01:07:54",
+                    "likes": "2",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Carlos Araujo",
+                    "text": "Caro Gondim, deixe de ser ignorante! Quem perdeu de 01 a zero dentro da fonte nova foi o Bahia.",
+                    "date": "2018-01-20T10:31:02",
+                    "likes": "2",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Carlos Araujo",
+                    "text": "Seja um cidadão, respeite o Brasil, não fale com desdem de um dos estados da federação. Agradeça a Deus por ter favorecido Minas Gerais. Contudo, não esqueça que seu estado tem um pedaço nordestino, e que sofre muito.",
+                    "date": "2018-01-20T10:35:08",
+                    "likes": "4",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Carlos Araujo",
+                    "text": "Deixe de ser besta, cara. O vitória já formou muitos craques de Sel. Brasileira. Acaso já ouviu falar de Bebeto Gama, Dida, Vampeta... Xá prá lá!",
+                    "date": "2018-01-20T10:40:01",
+                    "likes": "3",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 7
+        },
+        {
+            "name": "Beto Valente",
+            "text": "E o Botafogo da Paraíba?",
+            "date": "2018-01-19T15:53:20",
+            "likes": "18",
+            "unlikes": "3",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "João Campos",
+            "text": "O isso tem a ver com a matéria??",
+            "date": "2018-01-19T16:34:19",
+            "likes": "5",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Antonio Silveira",
+            "text": "O pior é que o jogador tava tão alegre com a camisa cheia de estrelas",
+            "date": "2018-01-20T00:37:40",
+            "likes": "1",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Diogenes Gondim",
+            "text": "O Paraíba está pior que o Vitória e meteu 1x0, vem aí 7x1 a lá Alemanha",
+            "date": "2018-01-20T01:07:54",
+            "likes": "2",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Carlos Araujo",
+            "text": "Caro Gondim, deixe de ser ignorante! Quem perdeu de 01 a zero dentro da fonte nova foi o Bahia.",
+            "date": "2018-01-20T10:31:02",
+            "likes": "2",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Carlos Araujo",
+            "text": "Seja um cidadão, respeite o Brasil, não fale com desdem de um dos estados da federação. Agradeça a Deus por ter favorecido Minas Gerais. Contudo, não esqueça que seu estado tem um pedaço nordestino, e que sofre muito.",
+            "date": "2018-01-20T10:35:08",
+            "likes": "4",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Carlos Araujo",
+            "text": "Deixe de ser besta, cara. O vitória já formou muitos craques de Sel. Brasileira. Acaso já ouviu falar de Bebeto Gama, Dida, Vampeta... Xá prá lá!",
+            "date": "2018-01-20T10:40:01",
+            "likes": "3",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alvaro Bridges",
+            "text": "TIME QUEBRADO, FALIDO QUE PAGA DE RICO, DA NISSO NÃO PAGA NGM, DAQUI A POUCO SALARIOS ATRASADOS, DAQUI A POUCO SEGUNDA DIVISAO, ANOTA AI !",
+            "date": "2018-01-19T10:45:40",
+            "likes": "81",
+            "unlikes": "158",
+            "replies": [
+                {
+                    "name": "Julio Raposeiras",
+                    "text": "Vou anotar Alvaro. E vc também anota aí se for atreticano : Seu time milionário não ganhará nada esse ano , só prá variar. Sem tradição.",
+                    "date": "2018-01-19T11:19:39",
+                    "likes": "71",
+                    "unlikes": "12"
+                },
+                {
+                    "name": "Elcio Jr",
+                    "text": "Vc está falando do Vitória?",
+                    "date": "2018-01-19T11:20:48",
+                    "likes": "24",
+                    "unlikes": "8"
+                },
+                {
+                    "name": "Warnei Martiniano",
+                    "text": "Você ainda responde a torcedores de time da segunda divisão???",
+                    "date": "2018-01-19T12:13:42",
+                    "likes": "13",
+                    "unlikes": "9"
+                },
+                {
+                    "name": "Lucas Augusto",
+                    "text": "Alvaro Bridges, você leu a reportagem? Se tivesse lido não teia feito esse comentário.",
+                    "date": "2018-01-19T12:31:21",
+                    "likes": "18",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Aloízio",
+                    "text": "Se o cruzeiro for rebaixado com esse elenco o Vitória é o último do campeonato kkkkk",
+                    "date": "2018-01-19T14:39:31",
+                    "likes": "4",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "Aloízio",
+                    "text": "Se o cruzeiro for rebaixado o Vitória vai direto pra série C pra apanhar da Tombense kkkkk",
+                    "date": "2018-01-19T15:04:06",
+                    "likes": "1",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Aloízio",
+                    "text": "Se O CRUZEIRO FOR REBAIXADO COM ESSE ELENCO, O VITÓRIA VAI DIRETO PRA SÉRIE C JOGAR COM A GRANDEOSA TOMBENSE KKKKKKK",
+                    "date": "2018-01-19T15:07:28",
+                    "likes": "2",
+                    "unlikes": "5"
+                },
+                {
+                    "name": "Leonardo Simões",
+                    "text": "Elenco não ganha título, o que ganha é na bola. Não vai demora muito pra o Cruzeiro começar a atrasar salário",
+                    "date": "2018-01-19T23:16:05",
+                    "likes": "7",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "André Oliveira",
+                    "text": "Cruzeiro reforçou o Vitria com mais de 12 jogadores nos ultimos 4 anos.. Segura a onda ai leaozinho de circo.",
+                    "date": "2018-01-20T04:33:12",
+                    "likes": "3",
+                    "unlikes": "7"
+                }
+            ],
+            "n_replies": 9
+        },
+        {
+            "name": "Julio Raposeiras",
+            "text": "Vou anotar Alvaro. E vc também anota aí se for atreticano : Seu time milionário não ganhará nada esse ano , só prá variar. Sem tradição.",
+            "date": "2018-01-19T11:19:39",
+            "likes": "71",
+            "unlikes": "12",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Elcio Jr",
+            "text": "Vc está falando do Vitória?",
+            "date": "2018-01-19T11:20:48",
+            "likes": "24",
+            "unlikes": "8",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Warnei Martiniano",
+            "text": "Você ainda responde a torcedores de time da segunda divisão???",
+            "date": "2018-01-19T12:13:42",
+            "likes": "13",
+            "unlikes": "9",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Lucas Augusto",
+            "text": "Alvaro Bridges, você leu a reportagem? Se tivesse lido não teia feito esse comentário.",
+            "date": "2018-01-19T12:31:21",
+            "likes": "18",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Se o cruzeiro for rebaixado com esse elenco o Vitória é o último do campeonato kkkkk",
+            "date": "2018-01-19T14:39:31",
+            "likes": "4",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Se o cruzeiro for rebaixado o Vitória vai direto pra série C pra apanhar da Tombense kkkkk",
+            "date": "2018-01-19T15:04:06",
+            "likes": "1",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Se O CRUZEIRO FOR REBAIXADO COM ESSE ELENCO, O VITÓRIA VAI DIRETO PRA SÉRIE C JOGAR COM A GRANDEOSA TOMBENSE KKKKKKK",
+            "date": "2018-01-19T15:07:28",
+            "likes": "2",
+            "unlikes": "5",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Leonardo Simões",
+            "text": "Elenco não ganha título, o que ganha é na bola. Não vai demora muito pra o Cruzeiro começar a atrasar salário",
+            "date": "2018-01-19T23:16:05",
+            "likes": "7",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "André Oliveira",
+            "text": "Cruzeiro reforçou o Vitria com mais de 12 jogadores nos ultimos 4 anos.. Segura a onda ai leaozinho de circo.",
+            "date": "2018-01-20T04:33:12",
+            "likes": "3",
+            "unlikes": "7",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Antonio Silveira",
+            "text": "O cara ficou triste com a notícia de voltar depois de vestir uma camisa com estrelas aí doi",
+            "date": "2018-01-20T00:34:22",
+            "likes": "3",
+            "unlikes": "10",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ubaldo Oliveira",
+            "text": "O presidente do Vitória , tá correto. Ou paga ou devolve o jogador, e tem mais, vende para quem paga à vista, já que o que não falta e time interessado no jogador.",
+            "date": "2018-01-19T11:49:49",
+            "likes": "71",
+            "unlikes": "45",
+            "replies": [
+                {
+                    "name": "Comedor Galinacias",
+                    "text": "Me fala mais um time? KKKKKKKKKKKKKKKKKKKKKKKKK Acorda cara, ninguém mais fez proposta, se recusarmos ele por incapacidade física acha que outro clube da série A vai querer?",
+                    "date": "2018-01-19T12:55:28",
+                    "likes": "29",
+                    "unlikes": "21"
+                },
+                {
+                    "name": "Fabio Cardoso",
+                    "text": "o pgt eh a vista seu lerdo",
+                    "date": "2018-01-19T13:28:40",
+                    "likes": "7",
+                    "unlikes": "7"
+                },
+                {
+                    "name": "Francisco Ferreira",
+                    "text": "Fabio, vc tá bom pra comprar lote na lua. Acorda retardado!",
+                    "date": "2018-01-19T14:41:00",
+                    "likes": "9",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Otavio Faria",
+                    "text": "o pagamento seria a vista , mas ele precisava passa nos exames medicos o que não aconteceu ate agora.",
+                    "date": "2018-01-19T15:53:02",
+                    "likes": "7",
+                    "unlikes": "5"
+                },
+                {
+                    "name": "Renardbleu",
+                    "text": "Peguem de volta, e tentem vender jogador lesionado por 10 milhões para algum trouxa.",
+                    "date": "2018-01-19T17:39:48",
+                    "likes": "12",
+                    "unlikes": "8"
+                },
+                {
+                    "name": "Thiago Faria",
+                    "text": "duvivo q achem alguem pra comprar e ainda pagar a vista",
+                    "date": "2018-01-19T22:19:58",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 6
+        },
+        {
+            "name": "Comedor Galinacias",
+            "text": "Me fala mais um time? KKKKKKKKKKKKKKKKKKKKKKKKK Acorda cara, ninguém mais fez proposta, se recusarmos ele por incapacidade física acha que outro clube da série A vai querer?",
+            "date": "2018-01-19T12:55:28",
+            "likes": "29",
+            "unlikes": "21",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabio Cardoso",
+            "text": "o pgt eh a vista seu lerdo",
+            "date": "2018-01-19T13:28:40",
+            "likes": "7",
+            "unlikes": "7",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Francisco Ferreira",
+            "text": "Fabio, vc tá bom pra comprar lote na lua. Acorda retardado!",
+            "date": "2018-01-19T14:41:00",
+            "likes": "9",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Otavio Faria",
+            "text": "o pagamento seria a vista , mas ele precisava passa nos exames medicos o que não aconteceu ate agora.",
+            "date": "2018-01-19T15:53:02",
+            "likes": "7",
+            "unlikes": "5",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Renardbleu",
+            "text": "Peguem de volta, e tentem vender jogador lesionado por 10 milhões para algum trouxa.",
+            "date": "2018-01-19T17:39:48",
+            "likes": "12",
+            "unlikes": "8",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Thiago Faria",
+            "text": "duvivo q achem alguem pra comprar e ainda pagar a vista",
+            "date": "2018-01-19T22:19:58",
+            "likes": "3",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Joseph Segundo",
+            "text": "Essas Marias estão devendo: FIFA=50milhoes, BMG:50milhoes, GALO:10milhoes, Botafogo:1milhão, times da Argentina entre outros. Se não tem dinheiro, que não compre ninguem. Quero ver um MARIA aparecer e dizer que é mentira.....",
+            "date": "2018-01-19T16:11:32",
+            "likes": "20",
+            "unlikes": "14",
+            "replies": [
+                {
+                    "name": "Thiago Faria",
+                    "text": "eu devolvia, não é jogador para o cruzeiro",
+                    "date": "2018-01-19T22:17:20",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Carlos Barros",
+            "text": "sou cruzeirense , mas reprovo a atitude que o time está cometendo , se comprou fez os exames ao fazer uma transação foi aprovado , tem que pagar , se comprou algo com defeito mas fez avaliação antes de fechar o negócio e deu ok , então é pagar , se eu compro uma sei lá que for não analiso , erro é meu , então paga vamos ver que acontece",
+            "date": "2018-01-19T19:35:06",
+            "likes": "18",
+            "unlikes": "3",
+            "replies": [
+                {
+                    "name": "Aloízio",
+                    "text": "Ta louco! vc que é trouxa se vem estragado eu vou na loja reclamar, e a garantia?????",
+                    "date": "2018-01-19T20:08:17",
+                    "likes": "2",
+                    "unlikes": "4"
+                },
+                {
+                    "name": "Fausto Oliveira",
+                    "text": "Pelo jeito tem cláusula contratual que só depois de aprovados nos exames é que o negócio fica concretizado, e os exames feitos não foram definitivo, foi pra ver a extensão da lesão. Se for isto, concordo que não deve pagar antes de ser liberado para atividades, é muito dinheiro e seria uma irresponsabilidade da Diretoria liberar o pagamento. Podia ser até o Neymar!!",
+                    "date": "2018-01-19T20:11:16",
+                    "likes": "2",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Didico Imperador",
+            "text": "Vao receber quando ganhar um titulo dexpressao!",
+            "date": "2018-01-19T18:43:24",
+            "likes": "6",
+            "unlikes": "6",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Pablo",
+            "text": "Bem que falaram que o Cruzeiro é caloteiro, taí a fama com razão!",
+            "date": "2018-01-19T15:06:55",
+            "likes": "27",
+            "unlikes": "17",
+            "replies": [
+                {
+                    "name": "Aloízio",
+                    "text": "quem falou que o jogador tava inteiro e ia voltar a jogar 15 de janeiro foi o Bahia agora vem falar que o Cruzeiro que ta dando calote",
+                    "date": "2018-01-19T15:31:40",
+                    "likes": "6",
+                    "unlikes": "20"
+                },
+                {
+                    "name": "Renardbleu",
+                    "text": "Bahia?",
+                    "date": "2018-01-19T17:40:39",
+                    "likes": "3",
+                    "unlikes": "4"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Mestredosmagos",
+            "text": "Cruzeiro tá falido. Fez essas contratações sem dinheiro. Parece o pobre querendo andar de camisa lacoste",
+            "date": "2018-01-19T16:21:35",
+            "likes": "24",
+            "unlikes": "17",
+            "replies": [
+                {
+                    "name": "Teixeira",
+                    "text": "pior a galinha q tem dinheiro e nao tem moral,só troxe encostado,porq os bons preferiram outros times,inclusive o cruzeirao",
+                    "date": "2018-01-19T16:40:40",
+                    "likes": "6",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Felipe Moreira",
+                    "text": "A questao nao e essa,m dinheiro para pagar tem, so que foi posto uma clausula no contrato que o cruzeiro iria examinar o grau da lesao e ia ver como o atleta ia evoluir no quadro da lesao, com isso o cruzeiro em ate sexta que vem para ver se vai pagar ou devolver o atleta ao vitoria, presidentedo vitoria boca aberta que ta falando oq nao deve",
+                    "date": "2018-01-19T16:53:00",
+                    "likes": "5",
+                    "unlikes": "9"
+                },
+                {
+                    "name": "Jiraia",
+                    "text": "Engraçado que a torcida das bailarina azul ficavam falando que o Atlético era caloteiro, que tinha que pagar o Gremio pela compra do Victor e agora estão ai nessas situações, não pagam a multa do Fred, não pagam a compra do David, parte da compra do Arrascaeta, parte da compra o Willian, do Rafael Sobis, Riascos, Pisano, Ábila e Caicedo, fora que ainda é solidario na divida cobrado pelo Al Jazira sobre o Thiago Neves. Maria Caloteira mesmo kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
+                    "date": "2018-01-19T17:35:18",
+                    "likes": "8",
+                    "unlikes": "4"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "João Campos",
+            "text": "Prestem atenção nas contratações do crüzeiro ultimamente. Compra mas não paga de jeito nenhum! um dia a casa cai... E pegou 46 milhões de reais para montar esse time. Vai pagar(ou não) um milhão e trezentos mil de juros por mes.",
+            "date": "2018-01-19T16:46:45",
+            "likes": "5",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Fabio Cardoso",
+            "text": "Cruzeiro reforçou o Vitria com mais de 12 jogadores nos ultimos 4 anos.. Segura a onda ai leaozinho de circo.",
+            "date": "2018-01-19T13:29:21",
+            "likes": "27",
+            "unlikes": "39",
+            "replies": [
+                {
+                    "name": "Pedro Junior",
+                    "text": "Reforçou com emprestimo e nós pagamos por isso, se o seu timinho não tem grana compre um da série C !!!",
+                    "date": "2018-01-19T14:33:05",
+                    "likes": "33",
+                    "unlikes": "11"
+                },
+                {
+                    "name": "Otavio Faria",
+                    "text": "kkk tem que escuta isso de um torcedor do vitoria kkkkk , o vitoria monta seus time com o que os times grande manda pra ele , pode notar time do vitoria so tem refugo dos time grande",
+                    "date": "2018-01-19T15:54:38",
+                    "likes": "11",
+                    "unlikes": "20"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Aloízio",
+            "text": "Marcelo da base na Copa SP > que qualquer um do vitória",
+            "date": "2018-01-19T15:14:42",
+            "likes": "4",
+            "unlikes": "6",
+            "replies": [
+                {
+                    "name": "Gabriel Telles",
+                    "text": "Luan Da base do Vitória > time da base do cruzeiro e time principal",
+                    "date": "2018-01-19T16:04:35",
+                    "likes": "10",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Gustavo Henrique",
+            "text": "è simples... vão ter que esperar o cara se recuperar pra receber, se esse time de segunda ficar enchendo, devolve esse cara que já ta cheio de mi mi mi.",
+            "date": "2018-01-19T15:08:19",
+            "likes": "16",
+            "unlikes": "17",
+            "replies": [
+                {
+                    "name": "Beto Valente",
+                    "text": "A VERDADE É OUTRA: O CRUZEIRO NÃO TEM GRANA PRA PAGAR... E VAI TOMAR NO TEU -K-U-.",
+                    "date": "2018-01-19T15:54:22",
+                    "likes": "16",
+                    "unlikes": "7"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Comedor Galinacias",
+            "text": "Esse dirigente do Vitória gosta de se fazer de machão e achar que é alguma coisa, mas sempre borra. Disse que o Cruzeiro não levaria o jogador por um valor abaixo da multa, oferecemos um cascalho e ele aceitou. Fica calando ou mandamos esse jogador machucado de volta para vocês e no final do ano contratamos ele saindo de graça.",
+            "date": "2018-01-19T12:54:04",
+            "likes": "28",
+            "unlikes": "20",
+            "replies": [
+                {
+                    "name": "Daniel",
+                    "text": "Animal o contrato não vence no final do ano. É até junho de 2019.",
+                    "date": "2018-01-19T15:17:02",
+                    "likes": "7",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Otavio Faria",
+                    "text": "pode se fazer um pre contrato faltando 6 meses pro contrato acabar.",
+                    "date": "2018-01-19T15:51:13",
+                    "likes": "2",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 2
+        },
+        {
+            "name": "Angelo",
+            "text": "A espera do Cruzeiro é compreensivel...O Vitoria falou que a contusão era simples e que ja na 2a semana ele estaria treinando no Cruzeiro. O DM do Cruzeiro entende que o atleta precisa de muito mais tempo para retornar as atividades fisicas. Uma reunião esta agendada para essa tarde entre DM e diretoria para avaliar a situação...Não se trata de um jogador barato. É um investimento alto num atleta jovem e de futuro MAS que ainda não passa de uma promessa. Abraço a cruzeirenses e torcedores do Vitoria. OXE!",
+            "date": "2018-01-19T11:58:17",
+            "likes": "91",
+            "unlikes": "11",
+            "replies": [
+                {
+                    "name": "Gabriel",
+                    "text": "Exatamente! Vai que esse aí vira outro dedé da vida. R$10 milhões é muito dinheiro",
+                    "date": "2018-01-19T12:29:26",
+                    "likes": "17",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Rarirari",
+                    "text": "Reforçamos esse timinho bahiano todo ano emprestando jogadores de graça, agora que vende um jogador detonado ainda fica tirando onda.",
+                    "date": "2018-01-19T13:15:27",
+                    "likes": "39",
+                    "unlikes": "21"
+                },
+                {
+                    "name": "Antonio Junior",
+                    "text": "De graça?",
+                    "date": "2018-01-19T13:38:05",
+                    "likes": "7",
+                    "unlikes": "1"
+                },
+                {
+                    "name": "Pedro Junior",
+                    "text": "Seu rariri burrinho mineiro, seu time está comprando David mané e não tomando emprestado...se quer comprar pague, na Bahia não vendemos fiado !!!",
+                    "date": "2018-01-19T14:31:59",
+                    "likes": "7",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Heraldo Garcia",
+                    "text": "De graça e ainda pagamos os salários.",
+                    "date": "2018-01-19T14:35:58",
+                    "likes": "2",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Daniel",
+                    "text": "De graça Heraldo?! Vá procurar então o dinheiro de seus jogadores que vieram pro Vitória. Marinho pagamos e depois compramos, Neilton o mesmo, Willian Farias, Uillian Corrêa, Grabiel Xavier que aliás quando foi vendido o Vitória embolsou um dinheiro como \"vitrine\".",
+                    "date": "2018-01-19T15:13:33",
+                    "likes": "2",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 6
+        },
+        {
+            "name": "Aloízio",
+            "text": "Manda esse cara de volta se tiver machucado! Vai ficar 2 meses parado e sem pré temporada(mineiro), sem entrosamento, não vai dar certo... olha o time que já temos.... (raniel, judvan, são melhores que esse cara) Acho desnecessário mas se querem outro jogador, com esse dinheiro ainda da tempo de ir atrás de um cara inteiro, se o vitória ta pressionando é pq o jogador não vale, na dúvida melhor não arriscar tanto dinheiro assim, se for pra arriscar contrata alguém que se destacar no final do mineiro ou paulista desses times do interior que tem a mesma expressão que o todo poderoso Vitória kkkkk",
+            "date": "2018-01-19T15:11:53",
+            "likes": "3",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Manda esse cara de volta se tiver machucado! Vai ficar 2 meses parado e sem pré temporada(mineiro), sem entrosamento, não vai dar certo... olha o time que já temos.... (raniel, judvan, são melhores que esse cara) Acho desnecessário mas se querem outro jogador, com esse dinheiro ainda da tempo de ir atrás de um cara inteiro, se o vitória ta pressionando é pq o jogador não vale, na dúvida melhor não arriscar tanto dinheiro assim, se for pra arriscar contrata alguém que se destacar no final do mineiro ou paulista desses times do interior que tem a mesma expressão que o todo poderoso Vitória",
+            "date": "2018-01-19T15:10:15",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Manda esse cara de volta se tiver machucado! Vai ficar 2 meses parado e sem pré temporada(mineiro), sem entrosamento, não vai dar certo... olha o time que já temos.... (raniel, judvan, são melhores que esse cara) Acho desnecessário mas se querem outro jogador, com esse dinheiro ainda da tempo de ir atrás de um cara inteiro, se o vitória ta pressionando é pq o jogador não vale, na dúvida melhor não arriscar tanto dinheiro assim, se for pra arriscar contrata alguém que se destacar no final do mineiro ou paulista desses times do interior que tem a mesma expressão que o vitória.",
+            "date": "2018-01-19T14:57:42",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Aloízio",
+            "text": "Se tivessem sido espertos mandavam esse cara embora e traziam o Scarpa, jogador machucado já basta os que temos...",
+            "date": "2018-01-19T14:53:40",
+            "likes": "6",
+            "unlikes": "6",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Heraldo Garcia",
+            "text": "A lesão é de grau 4, portanto demora a ser sanada. Nada mais justo do que aguardar os próximos exames e, aí sim, decidir se paga ou devolve.",
+            "date": "2018-01-19T14:49:30",
+            "likes": "5",
+            "unlikes": "5",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Adelson Souza",
+            "text": "isso não seria mais um calote do chamado maior de minas ?",
+            "date": "2018-01-19T13:49:39",
+            "likes": "15",
+            "unlikes": "9",
+            "replies": [
+                {
+                    "name": "Marcello Leandro",
+                    "text": "Mano na moral mesmo Itair não e besta como Gilvan ta aguardando o cara recupera de contusão sabe lá qual o grau da contusão se ficar no estaleiro mais tempo logico q vão devolver. Era pra ter voltado dia 15 como fala a reportagem mais ainda não volto Itair ta bancando o esperto.",
+                    "date": "2018-01-19T14:47:00",
+                    "likes": "3",
+                    "unlikes": "2"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Rafael Delgado",
+            "text": "Até o Vitorinha tá cobrando as m.a.r.i.a.s!",
+            "date": "2018-01-19T14:38:05",
+            "likes": "3",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Warleibernardino Silva",
+            "text": "Os clubes \"credores\" das marias caloteiras, devem acionar a Fifa numa ação conjunta.",
+            "date": "2018-01-19T13:25:04",
+            "likes": "11",
+            "unlikes": "9",
+            "replies": [
+                {
+                    "name": "Marcelo Mendes",
+                    "text": "Sou cruzeirense mas convenhamos, o Cruzeiro está se tornando um verdadeiro caloteiro. Tem o caso Fred, agora essa do David. Sai dessa vida Cruzeiro, para com isso!!!",
+                    "date": "2018-01-19T13:28:22",
+                    "likes": "11",
+                    "unlikes": "3"
+                },
+                {
+                    "name": "Eustaquio Bicalho",
+                    "text": "pq nao te calas e volta pro galinheiro onde é seu lugar rsrssrsr",
+                    "date": "2018-01-19T13:42:13",
+                    "likes": "5",
+                    "unlikes": "2"
+                },
+                {
+                    "name": "Francisco Ferreira",
+                    "text": "O cruzeiro não tem divida do Fred,pode ter com o Fred,só se for legal.O clube está certo,afinal a atual diretoria não é aquela que contratava até com atestado de óbito.",
+                    "date": "2018-01-19T14:35:01",
+                    "likes": "2",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 3
+        },
+        {
+            "name": "Heraldo Garcia",
+            "text": "Paga com acarajé!!!!",
+            "date": "2018-01-19T14:34:39",
+            "likes": "2",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Pedro Junior",
+            "text": "Alguém avisa para o cruzeiro que fiado só amanhã ! kkkkkkkkkkkkk",
+            "date": "2018-01-19T14:34:22",
+            "likes": "2",
+            "unlikes": "1",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Pedro Junior",
+            "text": "Por que esse cruzeirinho é caloteiro heim ?",
+            "date": "2018-01-19T14:33:48",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Tô Tranquilo",
+            "text": "O pessoal deveria buscar outras informações em outro site, essa \"grobo\" é sensacionalista!!! Tá no contrato, o Cruzeiro só vai pagar depois de avaliar a gravidade da lesão do jogador e, ao que foi constatado, a lesão não é simples!!! O jogador vai ser reavaliado na próxima quarta!!! Corre o risco do negócio não ser concretizado!!! Portanto, o Cruzeiro só vai pagar se o DM der o aval!!! Lembrando, isto foi acordado em contrato!!!",
+            "date": "2018-01-19T14:31:36",
+            "likes": "2",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Geanderson Nobre",
+            "text": "PELO AMOR DE DEUS , DIRETORIA CRUZEIRENSE PAGA LOGO OU DEVOLVE ESSE CARA, TENHO VERGONHA DE VER ESSAS NOTICIAS SOBRE O CRUZEIRO, UM DOS GIGANTES DO FUTEBOL BRASILEIRO , DANDO MOTIVOS PRA SER ALVO DE PIADAS, PARA COM ISSO, O CRUZEIRO E MUITO GRANDE PRA FICAR COM ESSA PALHAÇADA, ENTÃO NÃO FAÇA ESTE TIPO DE CONTRATAÇÃO , ISSO E LAMENTAVEL.",
+            "date": "2018-01-19T14:07:34",
+            "likes": "15",
+            "unlikes": "4",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Eduardo Haupts",
+            "text": "Que o Vitória acione o Cruzeiro na justiça e busque seus direitos! Depois de assinar contrato querem desistir? Agora sei porque o Galo é o time dos homens e o crucru das marias",
+            "date": "2018-01-19T13:48:57",
+            "likes": "11",
+            "unlikes": "12",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Kossanosaco",
+            "text": "devolve. é caro demais, e ainda veio pitimbado.ta em tempo de concertar a burrice.",
+            "date": "2018-01-19T09:38:55",
+            "likes": "108",
+            "unlikes": "26",
+            "replies": [
+                {
+                    "name": "Antonio Junior",
+                    "text": "Conserte também o seu concerte.",
+                    "date": "2018-01-19T13:41:29",
+                    "likes": "10",
+                    "unlikes": "0"
+                },
+                {
+                    "name": "Kossanosaco",
+                    "text": "é um raniel um pouco mais velho e quebrado!",
+                    "date": "2018-01-19T13:42:43",
+                    "likes": "7",
+                    "unlikes": "1"
+                }
+            ],
+            "n_replies": 9
+        },
+        {
+            "name": "Antonio Junior",
+            "text": "Marias? Paguem o que devem ao Vitória. O fato de mamar os caras não vai fazer liberar o pagamento não.",
+            "date": "2018-01-19T13:39:16",
+            "likes": "1",
+            "unlikes": "2",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Rodrigo Souza",
+            "text": "Essas Marias caloteira tá osso kkkkkkkkk Tá devendo até o * kkkkkkkk",
+            "date": "2018-01-19T13:16:44",
+            "likes": "9",
+            "unlikes": "11",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Paulo Fonseca",
+            "text": "Pagar com o Quê ? Só se for com mamada nos ovos . Estão 3 L . Lisos ,Leves e Loucas .",
+            "date": "2018-01-19T13:05:51",
+            "likes": "4",
+            "unlikes": "10",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ricardo Porto",
+            "text": "TIME CALOTEIRO NÃO PAGA NINGUEM",
+            "date": "2018-01-19T12:23:09",
+            "likes": "11",
+            "unlikes": "10",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Rodrigo Araujo",
+            "text": "onde ta o resto da reportagem? globoesporte fazendo jornalismo de alto nível, muitas informações, entrevistando os dois lados, parabéns GE",
+            "date": "2018-01-19T12:21:26",
+            "likes": "11",
+            "unlikes": "3",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Guaracy Junior",
+            "text": "O Flamengo que não abra o olho na venda do Mancuello, se tentarem dar calote vai ser ruim de receber pq a fila tá Grande kkkkkk.",
+            "date": "2018-01-19T11:32:18",
+            "likes": "14",
+            "unlikes": "16",
+            "replies": [
+                {
+                    "name": "Avelar",
+                    "text": "Esquece... não vai receber!!! Cruzeiro tá falido!",
+                    "date": "2018-01-19T12:14:57",
+                    "likes": "11",
+                    "unlikes": "7"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Davith Araujo",
+            "text": "maria caloteira",
+            "date": "2018-01-19T11:33:03",
+            "likes": "10",
+            "unlikes": "6",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Avelar",
+            "text": "Clube que vende fiado para o Cruzeiro só pode estar louco. Elas não pagam ninguém estão devendo até os cabelos da cabeça. Dívida ativa de mais de 875 milhões. Deve clubes de jogadores que já saíram há 2 anos. Caso de LaTorre, Abila, Farias todos de clubes sul-americanos. Cruzeiro está falido contando com renda de jogos p pagar salários q já estão atrasados.",
+            "date": "2018-01-19T12:13:33",
+            "likes": "9",
+            "unlikes": "16",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "José Garcia",
+            "text": "Entra no final da fila Vitória.... a fila de cobrança é imensa. Marias caloteiras",
+            "date": "2018-01-19T10:25:47",
+            "likes": "36",
+            "unlikes": "19",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Daniel",
+            "text": "Cruzeiro está querendo dar o calote.",
+            "date": "2018-01-19T09:57:50",
+            "likes": "50",
+            "unlikes": "26",
+            "replies": [
+                {
+                    "name": "Admilson Pereira",
+                    "text": "maria caloteira",
+                    "date": "2018-01-19T10:52:31",
+                    "likes": "23",
+                    "unlikes": "12"
+                }
+            ],
+            "n_replies": 1
+        },
+        {
+            "name": "Davi Matos",
+            "text": "ta certo de não pagar por enquanto contratou caro e o jogador ainda nao sabe se terá condição de jogo tao cedo",
+            "date": "2018-01-19T10:44:21",
+            "likes": "29",
+            "unlikes": "9",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Daniel França",
+            "text": "essa diretoria ta com rolo.....",
+            "date": "2018-01-19T10:10:09",
+            "likes": "14",
+            "unlikes": "5",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Bruno Henriques",
+            "text": "essas marias caloteiras",
+            "date": "2018-01-19T09:52:50",
+            "likes": "35",
+            "unlikes": "30",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Alexandre Luz",
+            "text": "Eita que esse time não para de dar calote",
+            "date": "2018-01-19T10:01:49",
+            "likes": "30",
+            "unlikes": "11",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Ramon Nascimento",
+            "text": "Chorão...",
+            "date": "2018-01-19T09:39:31",
+            "likes": "15",
+            "unlikes": "15",
+            "replies": [
+                {
+                    "name": "Alcivando Perez",
+                    "text": "O VITÓRIA TEM QUE COBRAR MESMO, POIS COM O ITAIR COMO DIRETOR DAS MARIAS, O RISCO DE CALOTE É EMINENTE. VIDE A SITUAÇÃO QUE O IPATINGA FICOU QUANDO O ITAIR FOI PRESIDENTE DO MESMO.",
+                    "date": "2018-01-19T10:01:18",
+                    "likes": "20",
+                    "unlikes": "10"
+                }
+            ],
+            "n_replies": 1
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/ba/futebol/times/vitoria/noticia/presidente-do-vitoria-faz-ultimato-ao-cruzeiro-por-pagamento-de-david.ghtml"
+}

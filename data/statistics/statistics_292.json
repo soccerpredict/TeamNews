@@ -1,0 +1,16 @@
+{
+    "id": 292,
+    "team_id": 5,
+    "match_id": 146,
+    "status": "h",
+    "shots": 16,
+    "shots_on_goal": 5,
+    "fouls": 11,
+    "offsides": 1,
+    "ball_possession": 47,
+    "corners": 7,
+    "cross": 7,
+    "yellow_cards": 1,
+    "red_cards": 1,
+    "goals": 1
+}
