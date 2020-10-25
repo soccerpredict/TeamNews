@@ -23,6 +23,7 @@ The set o JSON files are structured exactly the same as the SQL. Thus, they foll
 # Algorithms
 
 The _NewsCrawler_ algorithms used for create this database are in directory [NewsCrawler](https://github.com/soccerpredict/TeamNews/tree/master/NewsCrawler).
+The _Statistics_Crawler_ algorithms used for create this database are in directory [crawler_statistics](https://github.com/soccerpredict/TeamNews/tree/master/crawler_statistics).
 
 - [NewsCrawler](https://github.com/soccerpredict/TeamNews/blob/master/NewsCrawler/NewsCrawler.py) is the news crawler. This directory contains the entities that are responsible for extracting and storing the news about the teams.
   - For execute this crawler, use the command:
