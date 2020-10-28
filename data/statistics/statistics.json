@@ -11368,5 +11368,35 @@
     "yellow_cards": 6,
     "red_cards": 0,
     "goals": 1
+  },
+  "758": {
+    "team_id": "bahia",
+    "match_id": 379,
+    "status": "h",
+    "shots": 21,
+    "shots_on_goal": 6,
+    "fouls": 15,
+    "offsides": 1,
+    "ball_possession": 58,
+    "corners": 6,
+    "cross": 5,
+    "yellow_cards": 4,
+    "red_cards": 0,
+    "goals": 2
+  },
+  "759": {
+    "team_id": "atletico_mg",
+    "match_id": 379,
+    "status": "v",
+    "shots": 5,
+    "shots_on_goal": 2,
+    "fouls": 18,
+    "offsides": 3,
+    "ball_possession": 42,
+    "corners": 3,
+    "cross": 5,
+    "yellow_cards": 2,
+    "red_cards": 0,
+    "goals": 2
   }
 }

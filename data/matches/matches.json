@@ -3030,5 +3030,13 @@
     "id_winner": "palmeiras",
     "id_home_team": "palmeiras",
     "id_visiting_team": "cruzeiro"
+  },
+  "379": {
+    "date": "30/07/2018",
+    "attendance": 0,
+    "income": 0,
+    "id_winner": "empate",
+    "id_home_team": "bahia",
+    "id_visiting_team": "atletico_mg"
   }
 }
