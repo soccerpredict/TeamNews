@@ -12,7 +12,7 @@ import urllib3
 import os
 import csv
 import pathlib
-from exceptions.PathException import PathException
+from exceptions.path_exception import PathException
 import json
 import numpy as np
 import time
