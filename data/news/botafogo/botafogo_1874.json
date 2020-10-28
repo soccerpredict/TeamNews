@@ -1,0 +1,59 @@
+{
+    "time": "19h09",
+    "date": "25/07/2018",
+    "title": "Clima quente: torcida do Botafogo protesta contra diretoria em General Severiano.Cerca de 100 torcedores comparecem à sede do clube num ato contra a antecipação de receitas e questionamentos sobre o estatuto",
+    "author": "Fred Gomes",
+    "text": [
+        "O Botafogo não entrou em campo nesta quarta-feira, mas o clima foi quente em General Severiano. Aproximadamente 100 torcedores marcaram presença na entrada da sede para protestar contra a diretoria.",
+        "Em instantes mais informações"
+    ],
+    "comments": [
+        {
+            "name": "PEDRO COSTA",
+            "text": "nosso time é HORRÍVEL. Lamento mas é a pura verdade.",
+            "date": "2018-07-29T17:05:34",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Luis Antonio",
+            "text": "Pra ajudar não tem ninguém, agota pra tumultuar tem muita gente. Quer apostar que no jogo com a Chape o Niltão vai estar vazio?",
+            "date": "2018-07-26T18:47:02",
+            "likes": "1",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Clein Batista",
+            "text": "tem que pegar esse cara meu e da uma surra",
+            "date": "2018-07-26T18:31:01",
+            "likes": "0",
+            "unlikes": "0",
+            "replies": [],
+            "n_replies": 0
+        },
+        {
+            "name": "Anndersson Pereira",
+            "text": "Se perdermos para a Chapecoense podemos nos preparar que vai começar o nosso calvário .",
+            "date": "2018-07-26T00:25:34",
+            "likes": "13",
+            "unlikes": "1",
+            "replies": [
+                {
+                    "name": "Renato Xavier",
+                    "text": "Com certeza amigo, eu já este filme várias vezes.",
+                    "date": "2018-07-26T07:11:58",
+                    "likes": "9",
+                    "unlikes": "0"
+                }
+            ],
+            "n_replies": 1
+        }
+    ],
+    "exception": 0,
+    "url": "https://globoesporte.globo.com/futebol/times/botafogo/noticia/clima-quente-torcida-do-botafogo-protesta-contra-diretoria-em-general-severiano.ghtml",
+    "team": "botafogo"
+}
