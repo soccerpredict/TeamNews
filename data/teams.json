@@ -1,86 +1,65 @@
 {
-    "1": {
-        "key": "sao_paulo",
-        "name": "São Paulo Futebol Clube"
-    },
-    "2": {
-        "key":"vasco",
-        "name": "Clube de Regatas Vasco da Gama"
-    },
-    "3": {
-        "key":"atletico_mg",
-        "name": "Clube Atlético Mineiro"
-    },
-    "4": {
-        "key":"ceara",
-        "name": "Ceará Sporting Club"
-    },
-    "5": {
-        "key":"corinthians",
-        "name": "Sport Club Corinthians Paulista"
-    },
-    "6": {
-        "key":"fluminense",
-        "name": "Fluminense Football Club"
-    },
-    "7": {
-        "key":"parana_clube",
-        "name": "Paraná Clube"
-    },
-    "8": {
-        "key":"palmeiras",
-        "name": "Sociedade Esportiva Palmeiras"
-    },
-    "9": {
-        "key":"sport",
-        "name": "Sport Clube do Recife"
-    },
-    "10": {
-        "key":"vitoria",
-        "name": "Esporte Clube Vitória"
-    },
-    "11": {
-        "key":"bahia",
-        "name": "Esporte Clube Bahia"
-    },
-    "12": {
-        "key":"botafogo",
-        "name": "Botafogo de Futebol e Regatas"
-    },
-    "13": {
-        "key":"flamengo",
-        "name": "Clube de Regatas do Flamengo"
-    },
-    "14": {
-        "key":"cruzeiro",
-        "name": "Cruzeiro Esporte Clube"
-    },
-    "15": {
-        "key":"chapecoense",
-        "name": "Associação Chapecoense de Futebol"
-    },
-    "16": {
-        "key":"internacional",
-        "name" : "Sport Club Internacional"
-    },
-    "17": {
-        "key":"gremio",
-        "name": "Grêmio Foot-Ball Porto Alegrense"
-    },
-    "18": {
-        "key":"athletico_pr",
-        "name": "Club Athletico Paranaense"
-    },
-    "19": {
-        "key":"america_mg",
-        "name": "América Futebol Clube"
-    },
-    "20": {
-        "key":"santos",
-        "name": "Santos Futebol Clube"
-    },
-    "21": {
-        "key":"empate",
-        "name": "Empate entre times"
-    }
+  "1": {
+    "sao_paulo": "São Paulo Futebol Clube"
+  },
+  "2": {
+    "vasco": "Clube de Regatas Vasco da Gama"
+  },
+  "3": {
+    "atletico_mg": "Clube Atlético Mineiro"
+  },
+  "4": {
+    "ceara": "Ceará Sporting Club"
+  },
+  "5": {
+    "corinthians": "Sport Club Corinthians Paulista"
+  },
+  "6": {
+    "fluminense": "Fluminense Football Club"
+  },
+  "7": {
+    "parana_clube": "Paraná Clube"
+  },
+  "8": {
+    "palmeiras": "Sociedade Esportiva Palmeiras"
+  },
+  "9": {
+    "sport": "Sport Clube do Recife"
+  },
+  "10": {
+    "vitoria": "Esporte Clube Vitória"
+  },
+  "11": {
+    "bahia": "Esporte Clube Bahia"
+  },
+  "12": {
+    "botafogo": "Botafogo de Futebol e Regatas"
+  },
+  "13": {
+    "flamengo": "Clube de Regatas do Flamengo"
+  },
+  "14": {
+    "cruzeiro": "Cruzeiro Esporte Clube"
+  },
+  "15": {
+    "chapecoense": "Associação Chapecoense de Futebol"
+  },
+  "16": {
+    "internacional": "Sport Club Internacional"
+  },
+  "17": {
+    "gremio": "Grêmio Foot-Ball Porto Alegrense"
+  },
+  "18": {
+    "athletico_pr": "Club Athletico Paranaense"
+  },
+  "19": {
+    "america_mg": "América Futebol Clube"
+  },
+  "20": {
+    "santos": "Santos Futebol Clube"
+  },
+  "21": {
+    "empate": "Empate entre times"
+  }
 }
