@@ -1,3 +1,6 @@
 *__pycache__*
 corrector.py
 statistics_crawler.py
+*.pkl
+*.png
+*.txt

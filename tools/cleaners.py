@@ -63,10 +63,11 @@ def dot_spliter_run() -> list:
 			comments_phrases
 	"""
 
-	if sys.path[0].endswith('preprocess'):
-		p = list(pathlib.Path('../data/news').glob('*/*.json'))
-	else:
-		p = list(pathlib.Path(sys.path[0] + '/news').glob('*.json'))
+	# if sys.path[0].endswith('preprocess'):
+	# 	p = list(pathlib.Path('../data/news/').glob('*/*.json'))
+	# else:
+	# 	p = list(pathlib.Path(sys.path[0] + '/news').glob('*.json'))
+	p = list(pathlib.Path('../data/news/').glob('*/*.json'))
 	data = []
 	print("[LOG] Reading JSON files")
 	for i in p:
